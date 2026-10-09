@@ -1,0 +1,3427 @@
+[
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg4NjE5NzE4OCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.iYJxapntz-y_SXlNyQRMEJwwTvjyi1ylKUZ8Jol7HNE",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Ludwigsvorstadt-Isarvorstadt, München",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Ludwigsvorstadt-Isarvorstadt"
+            ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5886197188",
+        "redirect_url": "https://www.adzuna.de/details/5886197188?utm_medium=api&utm_source=b6c24f0b",
+        "title": "Data Engineer",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "CELUS"
+        },
+        "latitude": 48.13344,
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "description": "Your responsibilities At CELUS , we're building the platform where component adoption happens and are hiring a Data Engineer (F/M/D) , who will play a key role in building reliable, scalable data pipelines and ingestion processes that create real impact across our product and the wider business, while supporting analytics initiatives across the business. Your responsibilities will include: Design, build, and maintain scalable ETL and data ingestion pipelines using Databricks , PySpark , support…",
+        "longitude": 11.58399,
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-16T14:56:37Z"
+    },
+    {
+        "created": "2026-09-24T03:09:07Z",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 11.56907,
+        "contract_type": "permanent",
+        "latitude": 48.14093,
+        "contract_time": "full_time",
+        "description": "Your mission Bookboost is the Hospitality Engagement Platform that empowers hotels to understand and engage their guests like never before. We unify guest data, automate personalised communication, and deliver experiences that drive revenue, loyalty, and operational excellence. We have customers across more than 20 countries and a platform that wins on depth. As we scale, the volume and importance of our data is growing fast, and we're looking for a Data Engineer to build the infrastructure tha…",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Bookboost"
+        },
+        "title": "Data Engineer",
+        "redirect_url": "https://www.adzuna.de/details/5896007734?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5896007734",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Altstadt-Lehel"
+            ],
+            "display_name": "Altstadt-Lehel, München",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODk2MDA3NzM0In0.K-S5mLA3DEWNMwD-3k9KjXHiIlXd6jJPBV8bIuHHhb0"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTAyNTIwNTI4In0.dP717URrgg1uPy69gZlws1_X3-HQx4MDJfQQ8fRqQM8",
+        "location": {
+            "display_name": "Wedding, Berlin",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Wedding"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.de/details/5902520528?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5902520528",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "WhyBrilliant GmbH"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-09-29T06:03:45Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "description": "Also searchable as: Senior Analytics Engineer · Senior Data Platform Engineer · Senior Cloud Data Engineer · Senior Data Warehouse Engineer Original title: Senior Data Engineer WhyBrilliant is sourcing applicants for this role on behalf of a corporate innovation unit - based in Berlin. The company's identity may stay confidential until first contact. Atlas, our AI Recruiter, is running this search and will pick the best candidates from Nova's network. The next step is to speak to Nova . The Rol…",
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "title": "Senior Data Engineer",
+        "salary_max": 90000,
+        "salary_min": 70000,
+        "longitude": 13.3777,
+        "contract_type": "permanent",
+        "latitude": 52.53261
+    },
+    {
+        "salary_max": 80000,
+        "title": "AI Data Engineer",
+        "salary_is_predicted": "0",
+        "contract_type": "permanent",
+        "latitude": 52.53261,
+        "longitude": 13.3777,
+        "salary_min": 70000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5849248470",
+        "redirect_url": "https://www.adzuna.de/details/5849248470?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "WhyBrilliant GmbH"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0OTI0ODQ3MCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.ip365iKPgZOQJJeTc0IU6p07jDQPV0rUlAeOuk_SMyU",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Wedding"
+            ],
+            "display_name": "Wedding, Berlin",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "description": "WhyBrilliant is sourcing applicants for this role on behalf of a fast-growing Berlin-based data and AI consultancy. The company's identity may stay confidential until first contact. Atlas, our AI Recruiter, is running this search and will pick the best candidates from Nova's network. The next step is to speak to Nova . The Role Job Title: AI Data Engineer Location: Berlin, Germany Why this role matters As organizations race to integrate AI, the bottleneck isn't just writing code—it's restructur…",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "created": "2026-08-20T05:29:30Z"
+    },
+    {
+        "longitude": 9.987297,
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-25T02:34:50Z",
+        "latitude": 53.557429,
+        "contract_type": "permanent",
+        "description": "äber das Unternehmen: Über Artefact | artefact.com/de Die digitale Marketingagentur Artefact vereinigt Marketingexpertise mit modernster Technologie. Die Marketing Engineers arbeiten mit den größten globalen Marken zusammen, um die Zukunft der Customer Experience neu zu gestalten. Das Unternehmen hat 25 Niederlassungen in 17 Ländern mit mehr als 1.700 Mitarbeitern. Gemeinsam realisieren diese für ihre Kunden eine weltweit nahtlose Betreuung. Das Serviceangebot der globalen Agenturgruppe steht a…",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5NzUyMjYyNCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.ZKa0W_p7tsGNLQHkUm_YcmzOl4tFNwZBsVwJ4RBW1mk",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hamburg"
+            ],
+            "display_name": "Hamburg, Deutschland",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5897522624",
+        "redirect_url": "https://www.adzuna.de/details/5897522624?utm_medium=api&utm_source=b6c24f0b",
+        "title": "Data Engineer Manager - Artefact",
+        "salary_is_predicted": "0",
+        "company": {
+            "display_name": "Artefact Germany GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "salary_min": 60000,
+        "contract_type": "permanent",
+        "latitude": 50.93917,
+        "longitude": 6.95684,
+        "salary_max": 80000,
+        "title": "Data Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "contract_time": "full_time",
+        "description": "Diese Position passt, wenn  Daten sind für dich nicht nur Nullen und Einsen, sondern die Grundlage für gute Entscheidungen? Du findest Freude daran, aus chaotischen Legacy-Systemen saubere Datenstrukturen zu schaffen? Du denkst in Pipelines, nicht in Skripten? Fehlerbehandlung und Retry-Logik sind für dich selbstverständlich, nicht optional? Du möchtest von erfahrenen Engineers lernen und gleichzeitig eigene Ideen umsetzen? Dann bist du bei uns richtig! Die Aufgaben Als Data Engineer baust du d…",
+        "created": "2026-09-21T14:51:35Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODkyODIyMzI5In0.h7OUJcgXlfTvFEMIoUItiaRsyuu7pf7dS_vlyLJ0VwE",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Köln",
+                "Altstadt-Nord"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Altstadt-Nord, Köln"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.de/details/5892822329?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5892822329",
+        "company": {
+            "display_name": "Sanitätshaus Aktuell AG",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "created": "2026-09-15T05:53:59Z",
+        "description": "Wir suchen Verstärkung. Werden Sie Teil unseres Teams in Wiesbaden. Data Engineer (m/w/d) Spannende Aufgaben erwarten Sie Sie entwickeln unsere AWS-basierte Datenplattform gemeinsam mit Ihrem Team kontinuierlich weiter. Sie entwickeln und betreiben Datenpipelines auf Basis von AWS-Services (z.B. S3, Redshift und Apache Airflow). Sie automatisieren ETL- und ELT-Prozesse und stellen Daten zuverlässig für Analytics und Business Intelligence bereit. Sie evaluieren moderne KI-gestützte Werkzeuge , b…",
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "title": "Data Engineer (m/w/d)",
+        "redirect_url": "https://www.adzuna.de/details/5884284489?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5884284489",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Enovos Energie Deutschland GmbH"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODg0Mjg0NDg5In0.wEba8EtJO75lAFTl_NUsRw901XJxa5W4TQvpe2y7hPI",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Deutschland",
+            "area": [
+                "Deutschland"
+            ]
+        }
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "created": "2026-09-29T04:35:23Z",
+        "contract_time": "full_time",
+        "description": "Starte bei uns durch Du brennst für Daten, moderne Technologien und intelligente Lösungen? Dann unterstütze uns als Data Engineer bei der Entwicklung zukunftsweisender Datenplattformen und datengetriebener Geschäftsmodelle. Gemeinsam gestalten AraCom, IDV, Milestone und Auel die digitale Zukunft, indem wir Individualsoftwarelösungen für unsere Kunden realisieren und diesen kompetent und zuverlässig zur Seite stehen. Mit innovativen Lösungen, spannenden Projekten und einem starken Team bieten wi…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTAyMzEyOTgxIn0.n08-8keDchYnlS-uFmAbTqadynBIYhd_j0NKns45p2Q",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Wesel (Kreis)",
+                "Kamp-Lintfort"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Kamp-Lintfort, Wesel (Kreis)"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5902312981?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5902312981",
+        "company": {
+            "display_name": "AraCom-Gruppe",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 60000,
+        "longitude": 6.55171,
+        "latitude": 51.50288,
+        "contract_type": "permanent",
+        "salary_is_predicted": "0",
+        "title": "Data Engineer (m/w/d)",
+        "salary_max": 80000
+    },
+    {
+        "redirect_url": "https://www.adzuna.de/details/5917134605?utm_medium=api&utm_source=b6c24f0b",
+        "title": "Data Engineer – Schwerpunkt Infrastruktur & Plattform*",
+        "id": "5917134605",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Haeger Consulting"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTE3MTM0NjA1In0.hIuRENSVgeuCz_Cd3-Xuy_TlOrxlpix94Y5pTDxloRQ",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Bad Godesberg, Bonn",
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Bonn",
+                "Bad Godesberg"
+            ]
+        },
+        "longitude": 7.14599,
+        "created": "2026-10-07T15:50:47Z",
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "description": "Was dich erwartet Du baust lieber stabile, skalierbare Datenplattformen als nur einzelne Pipelines? Cloud, Automatisierung und saubere Architekturen sind genau dein Ding? Dann passt diese Rolle perfekt zu dir. Du arbeitest im Consulting-Umfeld und setzt für unterschiedliche Kunden immer wieder neue, spannende Datenprojekte um. Du konzipierst, baust und betreibst moderne Datenplattformen in AWS, Azure oder GCP und automatisierst Infrastruktur konsequent mit Terraform. Du entwickelst und betreibs…",
+        "latitude": 50.68902
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODk4MzUxNTkyIn0.Gctnh8Kpri_Gs29myluC4cOd3bea-JeoQK7dMKRtIog",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Charlottenburg"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Charlottenburg, Berlin"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5898351592",
+        "redirect_url": "https://www.adzuna.de/details/5898351592?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "ambelin GmbH"
+        },
+        "contract_time": "full_time",
+        "description": "DIESE AUFGABEN WARTEN AUF DICH Hey du! Du möchtest nicht einfach mit bestehenden Datenstrukturen arbeiten, sondern eine moderne Datenplattform von Grund auf mitgestalten? Du hast Lust, deine technische Expertise einzubringen, Verantwortung zu übernehmen und dabei maßgeblich zu prägen, wie wir Daten zukünftig nutzen? Dann bist du bei uns genau richtig! Bei ambelin dreht sich alles um unsere Mieterinnen und Mieter. Unser Ziel ist es, Wohnen neu zu denken: moderner, effizienter und vor allem miete…",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "created": "2026-09-25T14:56:06Z",
+        "salary_max": 85000,
+        "title": "Data Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "salary_min": 70000,
+        "latitude": 52.51115,
+        "contract_type": "permanent",
+        "longitude": 13.30147
+    },
+    {
+        "created": "2026-10-07T15:51:22Z",
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 7.14599,
+        "contract_type": "permanent",
+        "description": "Was dich erwartet Du liebst es, Daten zum Fließen zu bringen, große Datenmengen performant zu verarbeiten und saubere Pipelines zu bauen? Dein Schwerpunkt liegt klar auf Entwicklung und Datenverarbeitung? Dann bist du hier richtig. Du arbeitest im Consulting-Umfeld und entwickelst für unterschiedliche Kunden immer wieder neue, abwechslungsreiche Datenlösungen. Du entwickelst skalierbare ETL/ELT-Datenpipelines für Batch- und Streaming-Verarbeitung und arbeitest mit Spark / PySpark, Python und SQ…",
+        "contract_time": "full_time",
+        "latitude": 50.68902,
+        "location": {
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Bonn",
+                "Bad Godesberg"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Bad Godesberg, Bonn"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTE3MTM2MTc1In0.PTwoph-Sp_fQOVG6BRYX7zWXT670IIL3N9YO5NqBSoE",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Haeger Consulting"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5917136175?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5917136175",
+        "title": "Data Engineer – Schwerpunkt Programmierung & Datenpipelines*",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "longitude": 9.94533,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "created": "2026-09-30T14:59:56Z",
+        "latitude": 53.56295,
+        "contract_type": "permanent",
+        "description": "Dein Team Das Data & Automation Team ist Teil der OMR Tech Abteilung und fungiert als Center of Excellence für die Daten- und Prozessoptimierung bei OMR. Wir schaffen die Basis für fundierte, datengetriebene Entscheidungen und reibungslose Abläufe in allen Business Units (Festival, Podstars, Reviews, Education, Jobs). Wir verstehen uns als starker Business Partner: Wir bauen die Brücken zwischen komplexen Datenstrukturen, smarter Automatisierung und echtem Business Impact. Bock auf maximale Fre…",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTAzOTAxMDc5In0.ClBQApNJqcicTcp_dITvLrSC0X3ei-qlrj8VCbmXOGM",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hamburg",
+                "Altona-Nord"
+            ],
+            "display_name": "Altona-Nord, Hamburg",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5903901079?utm_medium=api&utm_source=b6c24f0b",
+        "title": "DATA ENGINEER*IN (m/w/d)",
+        "id": "5903901079",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Ramp106 GmbH"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "company": {
+            "display_name": "NES Global Deutschland GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.de/details/5908956446?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5908956446",
+        "title": "Data Engineer (m/w/d)",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "display_name": "Altstadt, Frankfurt am Main",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Hessen",
+                "Frankfurt am Main",
+                "Altstadt"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTA4OTU2NDQ2In0.EyApJqi6t2mvi9AtEZbsFKJMi8szJ6va9JQtdPVpc2o",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "created": "2026-10-03T01:05:45Z",
+        "longitude": 8.68432,
+        "contract_type": "permanent",
+        "description": "NES Global Deutschland GmbH Deine Aufgaben Entwicklung und Weiterentwicklung cloudbasierter Datenlösungen Aufbau, Automatisierung und Optimierung von Datenpipelines Verarbeitung und Strukturierung großer Datenmengen Entwicklung und Optimierung von ETL-/ELT-Prozessen Arbeit mit AWS, Python und SQL Steuerung und Automatisierung von Datenworkflows Weiterentwicklung der Datenplattform in Zusammenarbeit mit internen Fachbereichen Prüfung und Einsatz moderner KI-Tools im Data-Engineering-Umfeld Dein …",
+        "latitude": 50.11218,
+        "contract_time": "full_time"
+    },
+    {
+        "longitude": 8.27538,
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-10-03T01:05:44Z",
+        "contract_type": "permanent",
+        "latitude": 49.99556,
+        "description": "NES Global Deutschland GmbH Deine Aufgaben Entwicklung und Weiterentwicklung cloudbasierter Datenlösungen Aufbau, Automatisierung und Optimierung von Datenpipelines Verarbeitung und Strukturierung großer Datenmengen Entwicklung und Optimierung von ETL-/ELT-Prozessen Arbeit mit AWS, Python und SQL Steuerung und Automatisierung von Datenworkflows Weiterentwicklung der Datenplattform in Zusammenarbeit mit internen Fachbereichen Prüfung und Einsatz moderner KI-Tools im Data-Engineering-Umfeld Dein …",
+        "contract_time": "full_time",
+        "id": "5908956421",
+        "redirect_url": "https://www.adzuna.de/details/5908956421?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "title": "Data Engineer (m/w/d)",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "NES Global Deutschland GmbH"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkwODk1NjQyMSIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.6e-WXIlJTRSZEYdTNKWSOzYvgAWoXYWbsyxi0AcCpZs",
+        "location": {
+            "display_name": "Altstadt, Mainz",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Rheinland-Pfalz",
+                "Mainz",
+                "Altstadt"
+            ]
+        }
+    },
+    {
+        "created": "2026-10-03T05:00:07Z",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 13.420806,
+        "latitude": 52.507706,
+        "contract_type": "permanent",
+        "description": "Du möchtest nicht nur Daten verarbeiten, sondern eine moderne Datenplattform entwickeln, die Analysen, Reporting und datengetriebene Entscheidungen im gesamten Unternehmen ermöglicht? Dann könnte diese Position genau das Richtige für dich sein. Unser Kunde, ein dynamisch wachsende E-Commerce Service Agentur in Berlin , zählt zu den erfolgreichsten Amazon-Händlern Deutschlands und vertreibt tausende Produkte Für den weiteren Ausbau der Data & Analytics Landschaft wird eine Persönlichkeit gesucht…",
+        "contract_time": "full_time",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Berlin"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Berlin, Deutschland"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTA5MzE3NDU5In0.CZshyivsdcPb-YGFgHh1TpawuNgS3cBpj_51pArJ-qA",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "ANGEHEUERT GmbH"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5909317459?utm_medium=api&utm_source=b6c24f0b",
+        "title": "Senior Data Engineer (m/w/d)",
+        "id": "5909317459",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "created": "2026-09-12T03:34:11Z",
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "description": "Wir bei Nortal unterstützen den öffentlichen Sektor und Unternehmen dabei, data-driven zu werden. Wenn Du bei dem Wort „Daten“ sofort hellwach wirst, passt Du gut zu uns: Wir bauen Lösungen, die Daten verlässlich verfügbar machen – und in Entscheidungen mit messbarem Impact übersetzen. Wir suchen eine:n Senior Data Engineer(w/m/d) mit klarem Fokus auf Data Warehouses. Wir suchen jemanden, der Wissen gerne teilt und gemeinsam mit anderen die beste Lösung findet. Du arbeitest in Deutschland eng m…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg4MDQzNjI2MyIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.1y9LfE9cNEdMZLEYtvXixn7fkmfsI-j4QDJWL0ZI070",
+        "location": {
+            "area": [
+                "Deutschland"
+            ],
+            "display_name": "Deutschland",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5880436263?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5880436263",
+        "title": "Senior Data Engineer (w/m/d)",
+        "salary_is_predicted": "0",
+        "company": {
+            "display_name": "Nortal",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "longitude": 8.49627,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "created": "2026-08-13T14:40:08Z",
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "description": "Wir bei der EDEKA IT sind das Herzstück des digitalen Wandels im EDEKA-Verbund. Als leistungsstarkes Team entwickeln wir IT-Strategien, -Infrastrukturen und -Dienstleistungen für alle Handelsbereiche des EDEKA-Verbunds in ganz Deutschland. Wir bündeln unsere Kompetenzen, um innovative Lösungen zu entwickeln und umzusetzen. So treiben wir den Handel von morgen voran - vielleicht schon bald gemeinsam mit dir? In deiner Rolle als Snowflake Data Engineer (m/w/d) kannst du bei uns deinen ganz persön…",
+        "latitude": 49.471,
+        "redirect_url": "https://www.adzuna.de/details/5840279699?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5840279699",
+        "title": "Snowflake Data Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "EDEKA IT Stiftung & Co. OHG"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0MDI3OTY5OSIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.u7LzwkOOlRdUYNk2UzdYhaMWZp7QUlwChUDlkv_bGe0",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Baden-Württemberg",
+                "Mannheim",
+                "Fahrlach"
+            ],
+            "display_name": "Fahrlach, Mannheim",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        }
+    },
+    {
+        "created": "2026-05-21T03:36:17Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "longitude": 9.65624,
+        "contract_type": "permanent",
+        "latitude": 53.7553,
+        "description": "Du bist ein echter Data Profi? IT Data Engineer (m/w/d) in Elmshorn Unser Partnerunternehmen in der Nähe von Hamburg ist ein expandierendes, dynamisches Familien-Unternehmen Dein zukünftiges Aufgabengebiet Database & BI Engineering: Du administrierst und optimierst unsere Datenbanklandschaft (relational & nicht-relational). Dabei spielst du eine Schlüsselrolle bei der Weiterentwicklung unserer BI-Welt – von QLIK bis hin zur neuen Cloud-Ära mit MS Fabric und Power BI. Du baust Fabric Pipelines a…",
+        "contract_time": "full_time",
+        "company": {
+            "display_name": "plusYOU GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5735803061?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5735803061",
+        "salary_is_predicted": "0",
+        "title": "IT Data Engineer (m/w/d)",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Schleswig-Holstein",
+                "Pinneberg (Kreis)",
+                "Elmshorn"
+            ],
+            "display_name": "Elmshorn, Pinneberg (Kreis)",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNTgwMzA2MSIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.fD1BikjL_TcOWecvA1pCQUBlrxb98DCRL4pxA9UvH6o"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODAzMzY0NjQ1In0.e-7gwMdrlLT28KasDqN4n0PvksZhIxcgA727FykrzSc",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Alt-Hohenschönhausen"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Alt-Hohenschönhausen, Berlin"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5803364645?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5803364645",
+        "title": "Senior Data Engineer (m/f/d)",
+        "salary_is_predicted": "0",
+        "company": {
+            "display_name": "Eberlein Kunz",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 13.49953,
+        "created": "2026-07-16T18:49:22Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "latitude": 52.5508,
+        "description": "Preamble We are a fast-growing e-commerce service agency based in Berlin. Since 2013, we have been helping retailers, brands, and manufacturers unlock their full potential in e-commerce, with a particular focus on the Amazon marketplace. Our core categories include food, natural cosmetics, household goods, and other high-demand consumer products. Many of our clients rank among the bestsellers in their respective categories. Our success is driven by a team of 70 colleagues. We work in a data-dri…"
+    },
+    {
+        "contract_type": "permanent",
+        "latitude": 51.05811,
+        "description": "Senior Data Engineer (m/w/d) Standort: Dresden Start: Ab sofort Unternehmensprofil Das Unternehmen mit Hauptsitz in München ist ein global agierender Anbieter von Lösungen in den Bereichen Elektro-, Test- und Messtechnik sowie Kommunikationstechnologie. Das Unternehmen bietet ein breites Spektrum an Produkten, darunter Testgeräte für Elektronik, Funkkommunikation, Satellitenkommunikation und Netzwerke. Diese Produkte werden von Unternehmen in verschiedenen Branchen eingesetzt, darunter Luft- un…",
+        "contract_time": "full_time",
+        "longitude": 13.71006,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "other-general-jobs",
+            "label": "Sonstige/Allgemeine Stellen"
+        },
+        "created": "2026-09-18T12:48:14Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.de/details/5889094670?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5889094670",
+        "title": "Senior Data Engineer (m/w/d)",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Spectrum AG"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg4OTA5NDY3MCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.7a5UG66eGzn01uR5PReeIgINiSTlc7l0vpgYig8RZMA",
+        "location": {
+            "display_name": "Friedrichstadt, Dresden",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Sachsen",
+                "Dresden",
+                "Friedrichstadt"
+            ]
+        }
+    },
+    {
+        "contract_type": "permanent",
+        "description": "Allgemein: Daten sind das Gold von morgen! Und Du suchst, förderst und veredelst das Wertvollste, was unsere Kundenbesitzen: Ihre Daten. Daher suchen wir Dich als Senior AI Data Engineer (all genders) für unsere Standorte in Stuttgart, Hamburg, Köln, München oder Karlsruhe. Wenn Du Dich direkt bei uns bewirbst , d.h. ohne Personalvermittler oder Ansprache unserer Recruiterin auf uns aufmerksam wirst, erhältst Du bei Vertragsunterzeichnung erhältst Du eine Signing Fee von bis zu 10.000 Euro. Den…",
+        "latitude": 53.55197,
+        "contract_time": "full_time",
+        "longitude": 9.98553,
+        "created": "2026-10-05T15:38:00Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTEyNTM0ODc0In0.p22wBQ2ptJDa0KAaqv_j6BVdHSal5v-ibal4LWZRN8k",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hamburg",
+                "Neustadt"
+            ],
+            "display_name": "Neustadt, Hamburg",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Senior AI Data Engineer (all genders)",
+        "redirect_url": "https://www.adzuna.de/details/5912534874?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5912534874",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "DYMATRIX GmbH"
+        }
+    },
+    {
+        "longitude": 6.90048,
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-07-24T15:07:22Z",
+        "description": "Deine Aufgaben Du begeisterst dich für Daten, moderne Cloud-Technologien und die Entwicklung skalierbarer Datenlösungen? Du möchtest nicht nur technische Konzepte umsetzen, sondern gemeinsam mit Kunden die besten Lösungen entwickeln? Dann bist du bei uns genau richtig. Als (Senior) Data Engineer entwickelst du moderne Datenplattformen auf Basis von Microsoft Fabric, Azure und SQL – in cloud-hybriden Umgebungen sowie in klassischen On-Premises-Landschaften. Dabei begleitest du unsere Kunden von …",
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "latitude": 50.93709,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxMzg1MDU3MSIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.YPtw60q0HAPf1Uf_RuvlGXduzL8DAQqxhmn0BkP0KHI",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Köln",
+                "Braunsfeld"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Braunsfeld, Köln"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5813850571?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5813850571",
+        "title": "(Senior) Data Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Kramer & Crew GmbH & Co. KG"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Alexander Thamm GmbH"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5803383579?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5803383579",
+        "title": "Senior Data Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Moosach"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Moosach, München"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODAzMzgzNTc5In0.LsLvuf55TWIJmOcJR354aZ5nzZWOhlOvlXSDIsXMfuE",
+        "contract_type": "permanent",
+        "description": "Startdatum Wir suchen Dich an einem unserer deutschen Standorte in München, Nürnberg, Leipzig, Essen, Berlin oder Frankfurt am Main ! Deine Aufgaben Data und AI sind Dein zu Hause? Des Weiteren gestaltet sich Deine neue Herausforderung wie folgt: Konzeptionierung und Aufbau von Big Data/ Analytics Plattformen Auswahl von geeigneten Technologien für die Umsetzung von Data Analytics Use Cases in komplexen Cloud-Umgebungen Entwicklung, Ausführung und Skalierung von Daten-Pipelines auf Cluster-Arch…",
+        "contract_time": "full_time",
+        "latitude": 50.10656,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "created": "2026-07-16T18:52:14Z",
+        "longitude": 8.67167
+    },
+    {
+        "location": {
+            "display_name": "Sinsheim, Rhein-Neckar-Kreis",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Baden-Württemberg",
+                "Rhein-Neckar-Kreis",
+                "Sinsheim"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzM5NjgxMCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.F4QSoM_6CjjogItCfxd-54D1s_-3tLPGEOt5v27-Uao",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Thermengruppe",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5803396810?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5803396810",
+        "title": "Senior Data Engineer (w/m/d)",
+        "salary_is_predicted": "0",
+        "contract_type": "permanent",
+        "description": "Arbeiten, wo andere Urlaub machen - willkommen in unseren Paradiesen Als deutschlandweit führende Thermengruppe bieten wir nicht nur unseren Gästen besondere Auszeiten, sondern auch unseren Mitarbeitenden echte Perspektiven. Wir, die TeCreation GmbH, gestalten standortunabhängig die digitale Zukunft des Wellbeings. Als junges IT-Start-up – organisch gewachsen aus einem (vormals ausschließlich) internen Servicecenter – liefern wir heute maßgeschneiderte Softwarelösungen und IT-Services für die F…",
+        "latitude": 49.25278,
+        "contract_time": "full_time",
+        "created": "2026-07-16T18:53:56Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "longitude": 8.87944
+    },
+    {
+        "latitude": 48.18196,
+        "contract_type": "permanent",
+        "description": "Startdatum Wir suchen Dich ab sofort an einem unserer deutschen Standorte in München, Nürnberg, Essen, Leipzig, Berlin oder Frankfurt am Main ! Deine Aufgaben Data und AI sind Dein zu Hause? Des Weiteren gestaltet sich Deine neue Herausforderung wie folgt: Konzeptionierung und Aufbau von Big Data / Analytics / AI Plattformen, inklusive DevOps workflows, IaC, CI/CD, IAM und Monitoring & Alerting Konzeption, Entwicklung und Skalierung von Daten-Pipelines auf verschiedenen Cloud-Architekturen unte…",
+        "contract_time": "full_time",
+        "longitude": 11.52134,
+        "created": "2026-08-19T02:41:34Z",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Principal Data Engineer (m/w/d)",
+        "redirect_url": "https://www.adzuna.de/details/5847588129?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5847588129",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Alexander Thamm GmbH"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODQ3NTg4MTI5In0.rsK8ypdTnhtUfHoNDKaP6Np_gwfX1Dp2NQ_oGHQV9GU",
+        "location": {
+            "display_name": "Moosach, München",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Moosach"
+            ]
+        }
+    },
+    {
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hessen",
+                "Frankfurt am Main",
+                "Fechenheim"
+            ],
+            "display_name": "Fechenheim, Frankfurt am Main",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODI4NTM2NDI1In0.Gq6MpDyErtAWyGzmZpD3HMCbH-3OlgBHGXfgLlT0Abo",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "statworx"
+        },
+        "title": "Data Engineer NLP (m/w/d)",
+        "redirect_url": "https://www.adzuna.de/details/5828536425?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5828536425",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-05T02:41:00Z",
+        "longitude": 8.76072,
+        "contract_type": "permanent",
+        "description": "Über uns statworx ist ein führendes Beratungs- und Entwicklungsunternehmen für Daten & KI in der DACH-Region. Seit über einem Jahrzehnt unterstützen wir Unternehmen mit Beratung, Entwicklung und Weiterbildung – in mehr als 1.000 erfolgreichen Projekten für über 100 Kunden aus nahezu allen Branchen. Von der KI-Strategie bis zur Umsetzung entwickeln wir innovative Lösungen. Mit unserer Expertise in AI Strategy, Generative AI, Agentic AI, Data & AI Engineering sowie AI Infrastructure begleiten wir…",
+        "contract_time": "full_time",
+        "latitude": 50.12595
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2ODg5NjI1OCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.mJ0k2AdCxGz5XKYW9cqDJTCuQkZG4i0W2qam0aaMS9k",
+        "location": {
+            "display_name": "HafenCity, Hamburg",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Hamburg",
+                "HafenCity"
+            ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.de/details/5868896258?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5868896258",
+        "title": "AI & Data Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "company": {
+            "display_name": "Highberg DACH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Wer wir sind Bei Highberg arbeitest Du an echten Kundenproblemen, nicht an Prototypen für die Schublade. Du entwickelst datengetriebene Lösungen, die im operativen Alltag unserer Kunden tatsächlich eingesetzt werden und Entscheidungen beeinflussen. Du sorgst dafür, dass diese Lösungen verstanden, akzeptiert und genutzt werden. Viel von der Arbeit beginnt dort, wo Anforderungen noch unklar sind. Du schärfst Problemstellungen, machst Daten nutzbar und entwickelst aus analytischen Ansätzen konkret…",
+        "contract_type": "permanent",
+        "latitude": 53.54167,
+        "contract_time": "full_time",
+        "longitude": 9.99333,
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-03T14:42:39Z"
+    },
+    {
+        "created": "2026-10-02T15:36:36Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "longitude": 13.38475,
+        "description": "Deine Aufgaben Du entwickelst unsere Datenstrukturen und Datenbanken weiter und schaffst damit die Grundlage für datenbasierte Entscheidungen im CPO. Du definierst gemeinsam mit Operations und Management relevante KPIs und entwickelst diese kontinuierlich weiter. Du analysierst Daten, erkennst Muster und leitest daraus konkrete Handlungsempfehlungen ab. Du entwickelst pragmatische Reports und Dashboards, die im operativen Alltag wirklich genutzt werden. Du integrierst unterschiedliche Systeme u…",
+        "contract_type": "permanent",
+        "latitude": 52.51551,
+        "contract_time": "full_time",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Mitte, Berlin",
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Mitte"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTA4MTAwMzI2In0.cLsdwFS_y2sm16MWdn9BOSyjrh2lKmNBWBanMlNfu3E",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "CUBOS"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5908100326?utm_medium=api&utm_source=b6c24f0b",
+        "title": "Data Engineer CPO (m/w/d)",
+        "id": "5908100326",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "company": {
+            "display_name": "adorsys GmbH & Co. KG",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Senior Professional Data-Engineer (m/w/d)",
+        "redirect_url": "https://www.adzuna.de/details/5874132510?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5874132510",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "display_name": "Doos, Nürnberg",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Nürnberg",
+                "Doos"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODc0MTMyNTEwIn0.JdNCT_XbzzTHAr8rC2onZ8FskocR6JS1geEeeKI2mVs",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-07T14:50:22Z",
+        "longitude": 11.01935,
+        "contract_type": "permanent",
+        "description": "Deine Aufgaben Konzeption und Implementierung von Cloud-Native Data Services auf Basis moderner Microservices-Architekturen Entwicklung und Betrieb von Semantic Data Products (Integration von Knowledge Graph, Metadaten, Data Contracts) im Sinne eines Data-Centric-Ansatzes Arbeiten mit modernen Query- und Data-Virtualization-Technologien wie dbt, Trino oder Dremio im Cloud-Native-Umfeld Sicherstellen von Data Quality, Observability und Governance innerhalb der Data Products Integration von Daten…",
+        "contract_time": "full_time",
+        "latitude": 49.46381
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.de/details/5855365404?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5855365404",
+        "salary_is_predicted": "0",
+        "title": "Senior Data Engineer (m/w/d) – Snowflake",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "JobRad Loop"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NTM2NTQwNCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.rXK1OkhHbXELBn0sYjGuxQRAjtHuxp2Yr3a5rB_Qa4o",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Laim, München",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Laim"
+            ]
+        },
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "description": "Lust auf eine besondere Herausforderung? Du möchtest die technische Grundlage für datengetriebene Entscheidungen aktiv mitgestalten und nicht nur bestehende Systeme verwalten? Dann werde Teil unseres Teams als Senior Data Engineer und bring unsere Datenlandschaft auf das nächste Level. Du entwickelst skalierbare Datenarchitekturen, verantwortest geschäftskritische Pipelines und gestaltest aktiv, wie Daten im Unternehmen genutzt werden. Bei uns arbeitest du an Lösungen, die echten Impact haben: …",
+        "latitude": 48.13532,
+        "longitude": 11.50283,
+        "created": "2026-08-25T14:39:55Z",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        }
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Technikerstellen",
+            "tag": "engineering-jobs"
+        },
+        "created": "2026-08-17T18:17:28Z",
+        "contract_time": "full_time",
+        "description": "Für unseren Kunden in Donauwörth suchen wir einen erfahrenen Technical Data Engineering Specialist (m/w/d) mit Schwerpunkt Illustrated Parts Catalog (IPC). In dieser Position übernehmen Sie eine zentrale Rolle bei der Definition von Ersatzteilkonfigurationen sowie der Erstellung und Pflege technischer Dokumentationen für Hubschrauberprogramme. Ihre Aufgaben: die Analyse technischer Entwicklungsdaten zur Definition von Wartungskonzepten die Festlegung von Ersatzteilkonfigurationen und Ersatzteil…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODQ1MzIwMDE1In0.GdwnldJkKI8eN-gAWD5MUgkCRsirF2kkzyc6CZR2n9o",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Donauwörth, Donau-Ries (Kreis)",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Donau-Ries (Kreis)",
+                "Donauwörth"
+            ]
+        },
+        "id": "5845320015",
+        "redirect_url": "https://www.adzuna.de/details/5845320015?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "AERO HighProfessionals GmbH"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 63500,
+        "longitude": 10.77687,
+        "latitude": 48.71945,
+        "contract_type": "permanent",
+        "title": "Technical Data Engineer (m/w/d) - AIRBUS",
+        "salary_is_predicted": "0",
+        "salary_max": 63500
+    },
+    {
+        "redirect_url": "https://www.adzuna.de/details/5868895775?utm_medium=api&utm_source=b6c24f0b",
+        "title": "Senior AI & Data Engineer (m/w/d)",
+        "id": "5868895775",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Highberg DACH"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODY4ODk1Nzc1In0.GPNyVdgzaLtzPOI6AAOg4TF-GYBYYU5nr0sOEV9vNws",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hamburg",
+                "HafenCity"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "HafenCity, Hamburg"
+        },
+        "longitude": 9.99333,
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-03T14:41:46Z",
+        "contract_type": "permanent",
+        "description": "Wer wir sind Bei Highberg arbeitest Du an echten Kundenproblemen, nicht an Prototypen für die Schublade. Du entwickelst datengetriebene Lösungen, die im operativen Alltag unserer Kunden tatsächlich eingesetzt werden und Entscheidungen beeinflussen. Du sorgst dafür, dass diese Lösungen verstanden, akzeptiert und genutzt werden. Viel von der Arbeit beginnt dort, wo Anforderungen noch unklar sind. Du schärfst Problemstellungen, machst Daten nutzbar und entwickelst aus analytischen Ansätzen konkret…",
+        "contract_time": "full_time",
+        "latitude": 53.54167
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.de/details/5887005883?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5887005883",
+        "title": "Cloud & Fleet Data Engineer (m/f/d)",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Quantum-Systems GmbH"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg4NzAwNTg4MyIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.bO9_fTPRjWeshJsovY8KUdPXn5btd4KPS5sXq4ITON8",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Starnberg (Kreis)",
+                "Weßling"
+            ],
+            "display_name": "Weßling, Starnberg (Kreis)",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "description": "About the Role Every flight creates valuable data. Your mission is to make it visible, accessible and actionable. You will build the product-specific cloud services and data workflows that connect our interceptors, launch boxes, engineering teams and field operations. What is your Day to Day Mission: • Build the central source of truth for device identity, software versions, configurations and fleet health. • Develop secure backend services and APIs connecting interceptors, launch boxes and sup…",
+        "latitude": 48.07442,
+        "longitude": 11.24824,
+        "created": "2026-09-17T04:19:46Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "engineering-jobs",
+            "label": "Technikerstellen"
+        }
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODkzNDEzMDg1In0.YQDucE-JZKK-WAIHk9XMAPfnmQyDIuaVIOOnWp9G39o",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hessen",
+                "Frankfurt am Main",
+                "Bahnhofsviertel"
+            ],
+            "display_name": "Bahnhofsviertel, Frankfurt am Main",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Principal Data Engineer (m/w/d) - GIS / Geospatial",
+        "redirect_url": "https://www.adzuna.de/details/5893413085?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5893413085",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Alexander Thamm GmbH"
+        },
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "description": "Startdatum Wir suchen Dich ab sofort an einem unserer deutschen Standorte in München, Nürnberg, Frankfurt am Main, Essen, Leipzig oder Berlin ! Deine Aufgaben Data und AI sind Dein zu Hause? Deine neue Herausforderung gestaltet sich wie folgt: Konzeption und Entwicklung moderner Lösungen für die Verwaltung, Verarbeitung und Integration von Geodaten Gestaltung von Datenarchitekturen und Datenmodellen für komplexe GIS-, 3D- und Infrastruktur-Daten Entwicklung und Optimierung von Datenintegrations…",
+        "latitude": 50.10656,
+        "longitude": 8.67167,
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-22T03:03:50Z"
+    },
+    {
+        "contract_type": "permanent",
+        "latitude": 51.443356,
+        "contract_time": "full_time",
+        "description": "äber das Unternehmen: Über Artefact | artefact.com/de Die digitale Marketingagentur Artefact vereinigt Marketingexpertise mit modernster Technologie. Die Marketing Engineers arbeiten mit den größten globalen Marken zusammen, um die Zukunft der Customer Experience neu zu gestalten. Das Unternehmen hat 25 Niederlassungen in 17 Ländern mit mehr als 1.700 Mitarbeitern. Gemeinsam realisieren diese für ihre Kunden eine weltweit nahtlose Betreuung. Das Serviceangebot der globalen Agenturgruppe steht a…",
+        "longitude": 6.743718,
+        "created": "2026-09-12T02:07:44Z",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODgwMjg5MDc0In0.9-M2CiQMpZ2BB4v3M7Jgh3MIYvClxLHAxW4fX5Kx_vE",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Duisburg, Nordrhein-Westfalen",
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Duisburg"
+            ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5880289074",
+        "redirect_url": "https://www.adzuna.de/details/5880289074?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "title": "Data & Software Engineer",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Artefact Germany GmbH"
+        }
+    },
+    {
+        "longitude": 9.87763,
+        "created": "2026-07-25T03:01:59Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "contract_type": "permanent",
+        "latitude": 53.56538,
+        "description": "Ihre Aufgaben Die PETER DÖHLE Schiffahrts -KG ist ein maritimer Dienstleister mit Wurzeln in Hamburg und Heimathäfen auf der ganzen Welt. Wir verstehen uns als traditionsreiche und zugleich zukunftsorientierte Firmengruppe, die maßgeschneiderte Lösungen für die gesamte Schifffahrtsindustrie bereithält. Zur Verstärkung unserer IT Abteilung suchen wir Sie zum nächstmöglichen Zeitpunkt als Data Engineer (m/w/d) - Azure Cloud & MS Fabric. Ihre Chance Sie möchten Integrationslösungen in Azure entwic…",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.de/details/5814707150?utm_medium=api&utm_source=b6c24f0b",
+        "title": "Data Engineer (m/w/d) - Azure Cloud & MS Fabric",
+        "id": "5814707150",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Peter Döhle Schiffahrts-KG"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNDcwNzE1MCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.yoAa2x9eOT17595Kh67ND7X3ZEm2QcT3i99646Y9HH8",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Groß Flottbek, Hamburg",
+            "area": [
+                "Deutschland",
+                "Hamburg",
+                "Groß Flottbek"
+            ]
+        }
+    },
+    {
+        "longitude": 9.99333,
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-10T14:43:40Z",
+        "contract_type": "permanent",
+        "description": "What it's all about The Team: We are building the analytical backbone of a company that believes decisions should be powered by clarity, not guesswork. Our Business Intelligence team builds on top of a data platform that has to be there every morning - healthy, current, and trusted. Making that happen takes a core data engineer who owns the operational reliability of our platform end-to-end. Someone the rest of the team can count on to keep the lights on, catch issues before they become inciden…",
+        "latitude": 53.54167,
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.de/details/5878469895?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5878469895",
+        "title": "Data Engineer - fully remote within Europe (m/f/d)",
+        "company": {
+            "display_name": "JobLeads GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg3ODQ2OTg5NSIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.prDPsK3PUD6jjF94KBBHW7wRNVlA7EWVJ6I-ZXah_qc",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hamburg",
+                "HafenCity"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "HafenCity, Hamburg"
+        }
+    },
+    {
+        "location": {
+            "display_name": "Gallus, Frankfurt am Main",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Hessen",
+                "Frankfurt am Main",
+                "Gallus"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkwOTg0OTczMCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.C94832LRkeP9d9ixbjgtsNgCtZhdn07wPkFcptohXbw",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Schmitt Engineering",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5909849730",
+        "redirect_url": "https://www.adzuna.de/details/5909849730?utm_medium=api&utm_source=b6c24f0b",
+        "title": "Data Engineer (m/w/d) – Testautomatisierung & AWS Cloud für Kapazitätsmanagement",
+        "salary_is_predicted": "0",
+        "contract_type": "permanent",
+        "latitude": 50.10161,
+        "description": "Als mittelständisches Unternehmen und verlässlicher Partner der Industrie liefert Schmitt Engineering umfassende technische Expertise. Unsere Tätigkeiten erstrecken sich entlang der Prozesskette von der Planung und Projektierung über die Entwicklung und Konstruktion bis hin zur Fertigung, Montage und Inbetriebnahme. Ist Technik auch Ihre Leidenschaft? Dann werden Sie Teil unseres Teams und entwickeln mit uns die Zukunft. Ihre Aufgaben: Entwicklung und Weiterentwicklung von Webapplikationen zur …",
+        "contract_time": "full_time",
+        "created": "2026-10-03T13:02:45Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "other-general-jobs",
+            "label": "Sonstige/Allgemeine Stellen"
+        },
+        "longitude": 8.62864
+    },
+    {
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "description": "Deine Aufgaben Das ist dein Beitrag: In deiner Rolle als Data Engineer/ Database Manager bist du für den Aufbau, die Betreuung und die Weiterentwicklung moderner Dateninfrastrukturen verantwortlich und gestaltest unsere Datenlandschaft aktiv mit. Du verantwortest die Datenakquise und -integration, z. B. aus bestehenden Kundensystemen sowie über definierte Schnittstellen, und entwickelst gemeinsam mit dem Team die dafür erforderlichen Konzepte. In engem Austausch mit deinem Team, den Fachkollegi…",
+        "latitude": 53.55197,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "created": "2026-09-29T15:04:53Z",
+        "longitude": 9.98553,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "The Relevance Group GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5902814303?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5902814303",
+        "title": "Data Engineer/ Database Manager (m/w/d), befristet auf 2 Jahre",
+        "salary_is_predicted": "0",
+        "location": {
+            "display_name": "Neustadt, Hamburg",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Hamburg",
+                "Neustadt"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkwMjgxNDMwMyIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.wqFxTCyCHwQf0BQxLrJmSvbq1-8cAuNZF-UtYmgVac0"
+    },
+    {
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-01T14:41:27Z",
+        "longitude": 7.01387,
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "latitude": 50.95561,
+        "description": "Unsere Mission Möchtest Du das nächste Level erreichen? Unsere Generation wird durch Daten, Information und Informationsmanagement vorangetrieben. Diese Themen werden auch zukünftige Generationen beschäftigen. Du übernimmst bei unseren Kunden eigenverantwortlich den Aufbau und Betrieb moderner Lakehouse- und Warehouse-Plattformen im Microsoft-Azure-Kosmos. Du baust die Pipelines, gehst bei der Datenmodellierung voran und bist beim Kunden vor Ort erster Ansprechpartner*in für Business und Data A…",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "areto."
+        },
+        "id": "5864591711",
+        "redirect_url": "https://www.adzuna.de/details/5864591711?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "title": "Senior Data Engineer – Microsoft Azure, Fabric & Databricks (m/w/d)",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "display_name": "Buchheim, Köln",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Köln",
+                "Buchheim"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODY0NTkxNzExIn0.pfiSeBfVaI9ufQ4QqklZWMbjofKgpri7weYBJpFgsFQ"
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "created": "2026-09-18T02:54:28Z",
+        "longitude": 13.425,
+        "contract_type": "permanent",
+        "description": "Über Uns Customlytics is the leading app marketing agency & consultancy in the DACH region . Our international team of professionals from more than 10 nationalities helps apps succeed and drives the professionalization of the app industry by working with every relevant app business in the market . Can you imagine a world without apps? Neither can we ! You don't need a background in marketing to thrive here, if you have a passion for data structures, technical integration, and problem-solving, w…",
+        "latitude": 52.48082,
+        "contract_time": "full_time",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "The Relevance Group GmbH"
+        },
+        "title": "Junior Data Engineer & MarTech Specialist (Mobile Apps) English Speaking (m/w/d)",
+        "redirect_url": "https://www.adzuna.de/details/5888486772?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5888486772",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Neukölln"
+            ],
+            "display_name": "Neukölln, Berlin",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg4ODQ4Njc3MiIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.nivJoYXHZ27cSooir2QTAC3nejxHGo7FLLwSJ7LqGE0"
+    },
+    {
+        "description": "What it's all about The Team: We are building the analytical backbone of a company that believes decisions should be powered by clarity, not guesswork. Our Business Intelligence team builds on top of a data platform that has to be there every morning - healthy, current, and trusted. Making that happen takes a core data engineer who owns the operational reliability of our platform end-to-end. Someone the rest of the team can count on to keep the lights on, catch issues before they become inciden…",
+        "contract_type": "permanent",
+        "latitude": 53.54167,
+        "contract_time": "full_time",
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-11T02:36:59Z",
+        "longitude": 9.99333,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "JobLeads GmbH"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5836191564?utm_medium=api&utm_source=b6c24f0b",
+        "title": "Data Engineer - fully remote (working hours 5am-2pm CEST) (m/f/d)",
+        "id": "5836191564",
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hamburg",
+                "HafenCity"
+            ],
+            "display_name": "HafenCity, Hamburg",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzNjE5MTU2NCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.aJuUKkJ1NwH0Logik3q-qxJtNS2WfT3i-nRDKKKceAQ"
+    },
+    {
+        "location": {
+            "area": [
+                "Deutschland",
+                "Berlin"
+            ],
+            "display_name": "Berlin, Deutschland",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkwOTMxNzQ2MCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.r5Ygrc5KcCX0uKtc-mH26pVMGXAP0AVh9TeQLTxGfk0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "ANGEHEUERT GmbH"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5909317460?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "id": "5909317460",
+        "title": "Data Platform Engineer (m/w/d)",
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "latitude": 52.507706,
+        "description": "Du möchtest nicht nur Daten verarbeiten, sondern eine moderne Datenplattform entwickeln, die Analysen, Reporting und datengetriebene Entscheidungen im gesamten Unternehmen ermöglicht? Dann könnte diese Position genau das Richtige für dich sein. Unser Kunde, ein dynamisch wachsende E-Commerce Service Agentur in Berlin , zählt zu den erfolgreichsten Amazon-Händlern Deutschlands und vertreibt tausende Produkte Für den weiteren Ausbau der Data & Analytics Landschaft wird eine Persönlichkeit gesucht…",
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-10-03T05:00:07Z",
+        "longitude": 13.420806
+    },
+    {
+        "longitude": 11.52134,
+        "created": "2026-10-09T15:39:58Z",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Startdatum Wir suchen Dich ab sofort an einem unserer deutschen Standorte in München, Nürnberg, Leipzig, Essen, Berlin oder Frankfurt am Main! Deine Aufgaben Data & AI sind Dein Zuhause? Deine neue Herausforderung gestaltet sich wie fol gt: Mitarbeit bei der Konzeption und Weiterentwicklung skalierbarer Data & AI Plattformen mit Technologien wie Azure, Databricks oder Snowflake nach gängigen Architekturprinzipien wie z.B. Data Lakehouse Entwicklung, Automatisierung und Optimierung von Data Pipe…",
+        "contract_type": "permanent",
+        "latitude": 48.18196,
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkyMDY0MjM1NCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.VnXKXFWqie9ap3xUwKL237MAOY4NrCIXCcNk1gSuqO0",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Moosach"
+            ],
+            "display_name": "Moosach, München",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5920642354",
+        "redirect_url": "https://www.adzuna.de/details/5920642354?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "title": "Data & AI Engineer (m/w/d)",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Alexander Thamm GmbH"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "longitude": 13.30375,
+        "category": {
+            "label": "IT-Stellen",
+            "tag": "it-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-10-05T13:15:16Z",
+        "contract_type": "permanent",
+        "description": "facilioo - damit Hausverwaltung Spaß macht facilioo ist eine etablierte SaaS-Plattform für die digitale Immobilien- und Hausverwaltung. HunderteHausverwaltungen, Eigentümer, Mieter, Dienstleister und Behörden arbeiten täglich über uns zusammen –mit hunderttausenden Seitenaufrufen, rund einer Million Nutzeraktionen pro Tag und Datenbeständenin Millionenhöhe. Technisch betreiben wir zwei Generationen parallel: ein über Jahre gewachsenes, hochbelastetesKernsystem (PHP / MySQL) und einen modernen N…",
+        "latitude": 52.49221,
+        "contract_time": "full_time",
+        "title": "Data Migration Engineer (m/w/d)",
+        "redirect_url": "https://www.adzuna.de/details/5912434424?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5912434424",
+        "salary_is_predicted": "0",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "facilioo - damit Hausverwaltung Spaß macht"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTEyNDM0NDI0In0.O4L9X52jrVmkMvfaQtsmgFojw-uCuEZ57Z7VwRnMuPM",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Wilmersdorf"
+            ],
+            "display_name": "Wilmersdorf, Berlin",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        }
+    },
+    {
+        "location": {
+            "display_name": "Gebersdorf, Nürnberg",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Nürnberg",
+                "Gebersdorf"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5ODA5MDY5MCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.-HW_be0BTW5BhVxK7WNRGkOah598_t00eAItCo9d8YY",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "ORDIX AG"
+        },
+        "id": "5898090690",
+        "redirect_url": "https://www.adzuna.de/details/5898090690?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "title": "Data Platform Engineer (w/m/d)",
+        "contract_type": "permanent",
+        "latitude": 49.42737,
+        "description": "ORDIX AG Mach gemeinsam mit ORDIX den nächsten Schritt in deiner Karriere! Über uns Seit 35 Jahren sind wir ein zuverlässiger Partner namhafter Kunden aus dem Finanz- und Bankensektor, der Industrie und dem Handel sowie von öffentlichen Auftraggebern. Für unseren Erfolg stehen mehr als 230 Berater:innen, Entwickler:innen und Projektmanager:innen. Sie konzipieren und entwickeln maßgeschneiderte IT-Lösungen, die unseren Kunden dabei helfen, erfolgreich zu sein. Wir fördern den internen Meinungs- …",
+        "contract_time": "full_time",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "created": "2026-09-25T11:14:14Z",
+        "longitude": 11.01255
+    },
+    {
+        "longitude": 10.85702,
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-25T11:14:14Z",
+        "latitude": 48.39467,
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "description": "ORDIX AG Mach gemeinsam mit ORDIX den nächsten Schritt in deiner Karriere! Über uns Seit 35 Jahren sind wir ein zuverlässiger Partner namhafter Kunden aus dem Finanz- und Bankensektor, der Industrie und dem Handel sowie von öffentlichen Auftraggebern. Für unseren Erfolg stehen mehr als 230 Berater:innen, Entwickler:innen und Projektmanager:innen. Sie konzipieren und entwickeln maßgeschneiderte IT-Lösungen, die unseren Kunden dabei helfen, erfolgreich zu sein. Wir fördern den internen Meinungs- …",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5ODA5MDY5NCIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.Pwu3GdaDiu0rRRyevZXEkuU2wJhtqoFxvcaNbqH20Ow",
+        "location": {
+            "display_name": "Bärenkeller, Augsburg",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Augsburg (Kreis)",
+                "Augsburg",
+                "Bärenkeller"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.de/details/5898090694?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "id": "5898090694",
+        "title": "Data Platform Engineer (w/m/d)",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "ORDIX AG"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiQ2pHeHd4WEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODk4MDkwNjkxIn0.DBVElsI4Lan8Qjnzjj027tyVXZBU2ZVJbWtsw1vO4Ew",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Coerde, Münster",
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Münster",
+                "Coerde"
+            ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.de/details/5898090691?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "id": "5898090691",
+        "title": "Data Platform Engineer (w/m/d)",
+        "company": {
+            "display_name": "ORDIX AG",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "latitude": 51.99292,
+        "description": "ORDIX AG Mach gemeinsam mit ORDIX den nächsten Schritt in deiner Karriere! Über uns Seit 35 Jahren sind wir ein zuverlässiger Partner namhafter Kunden aus dem Finanz- und Bankensektor, der Industrie und dem Handel sowie von öffentlichen Auftraggebern. Für unseren Erfolg stehen mehr als 230 Berater:innen, Entwickler:innen und Projektmanager:innen. Sie konzipieren und entwickeln maßgeschneiderte IT-Lösungen, die unseren Kunden dabei helfen, erfolgreich zu sein. Wir fördern den internen Meinungs- …",
+        "longitude": 7.64839,
+        "created": "2026-09-25T11:14:14Z",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        }
+    },
+    {
+        "location": {
+            "display_name": "Sonnenberg, Wiesbaden",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Hessen",
+                "Wiesbaden (Kreis)",
+                "Wiesbaden",
+                "Sonnenberg"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5ODA5MDY5MiIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.xx-9v0xy3A_Noyj_g39U7W8ayd-28uUIRRrymL-8Pz4",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "ORDIX AG"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5898090692?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5898090692",
+        "salary_is_predicted": "0",
+        "title": "Data Platform Engineer (w/m/d)",
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "description": "ORDIX AG Mach gemeinsam mit ORDIX den nächsten Schritt in deiner Karriere! Über uns Seit 35 Jahren sind wir ein zuverlässiger Partner namhafter Kunden aus dem Finanz- und Bankensektor, der Industrie und dem Handel sowie von öffentlichen Auftraggebern. Für unseren Erfolg stehen mehr als 230 Berater:innen, Entwickler:innen und Projektmanager:innen. Sie konzipieren und entwickeln maßgeschneiderte IT-Lösungen, die unseren Kunden dabei helfen, erfolgreich zu sein. Wir fördern den internen Meinungs- …",
+        "latitude": 50.08407,
+        "created": "2026-09-25T11:14:14Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "longitude": 8.23838
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5ODA5MDY4OSIsInMiOiJDakd4d3hYRThSR181OWJwTFNWbWpRIn0.RwPijMVCTSCWY1rVwSg0WlILRtTodC2gGU0q7jNQzb8",
+        "location": {
+            "display_name": "Eil, Köln",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Köln",
+                "Eil"
+            ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.de/details/5898090689?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "id": "5898090689",
+        "title": "Data Platform Engineer (w/m/d)",
+        "company": {
+            "display_name": "ORDIX AG",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_type": "permanent",
+        "description": "ORDIX AG Mach gemeinsam mit ORDIX den nächsten Schritt in deiner Karriere! Über uns Seit 35 Jahren sind wir ein zuverlässiger Partner namhafter Kunden aus dem Finanz- und Bankensektor, der Industrie und dem Handel sowie von öffentlichen Auftraggebern. Für unseren Erfolg stehen mehr als 230 Berater:innen, Entwickler:innen und Projektmanager:innen. Sie konzipieren und entwickeln maßgeschneiderte IT-Lösungen, die unseren Kunden dabei helfen, erfolgreich zu sein. Wir fördern den internen Meinungs- …",
+        "contract_time": "full_time",
+        "latitude": 50.8947,
+        "longitude": 7.07852,
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-25T11:14:14Z"
+    },
+    {
+        "created": "2026-09-25T11:14:14Z",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 8.82762,
+        "description": "ORDIX AG Mach gemeinsam mit ORDIX den nächsten Schritt in deiner Karriere! Über uns Seit 35 Jahren sind wir ein zuverlässiger Partner namhafter Kunden aus dem Finanz- und Bankensektor, der Industrie und dem Handel sowie von öffentlichen Auftraggebern. Für unseren Erfolg stehen mehr als 230 Berater:innen, Entwickler:innen und Projektmanager:innen. Sie konzipieren und entwickeln maßgeschneiderte IT-Lösungen, die unseren Kunden dabei helfen, erfolgreich zu sein. Wir fördern den internen Meinungs- …",
+        "latitude": 51.7406,
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "ORDIX AG"
+        },
+        "salary_is_predicted": "0",
+        "id": "5898090688",
+        "title": "Data Platform Engineer (w/m/d)",
+        "redirect_url": "https://www.adzuna.de/details/5898090688?utm_medium=api&utm_source=b6c24f0b",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Benhausen, Paderborn",
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Paderborn (Kreis)",
+                "Paderborn",
+                "Benhausen"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODk4MDkwNjg4In0.AAgh-n-ZLVepi-Bzpq-8ARoOYOZA0RQtzkX3DKj3xO4"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "id": "5920510834",
+        "title": "Azure Data & Integration Engineer (m/w/d)",
+        "redirect_url": "https://www.adzuna.de/details/5920510834?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "display_name": "Delphi HR-Consulting GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkyMDUxMDgzNCIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.GV62x3Sb3ROxG3Ey_96qblcRdMN3CldheFgR1RupTPM",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hamburg",
+                "Harvestehude"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Harvestehude, Hamburg"
+        },
+        "description": "Delphi HR-Consulting GmbH Unser Mandant ist ein international führendes mittelständisches Unternehmen aus Transport und Logistik mit globaler Präsenz und hoher operativer Komplexität. Am Hamburger Standort in sehr attraktiver Lage entsteht ein modernes Technologieumfeld, in dem IT, Schnittstellen, System-Integration und Datenarchitektur eine zentrale Rolle für die Weiterentwicklung des Geschäftsmodells spielen. Architects und Engineers erwartet ein spannender Tech Stack, ein anspruchsvolles int…",
+        "contract_time": "full_time",
+        "latitude": 53.57767,
+        "contract_type": "permanent",
+        "longitude": 9.98895,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "created": "2026-10-09T13:16:27Z"
+    },
+    {
+        "description": "Wir über uns Wir gehören nicht zu den Größten aber zu den Besten! Die CEIS GmbH bietet als zuverlässiger Entwicklungspartner branchenübergreifende Ingenieur- und IT-Dienstleistungen an. Die Kernkompetenzen unserer Engineering Services liegen auf Homologation, Fahrzeug-Management und umfassende Komplettlösungen rund ums Fahrzeug. Profitieren Sie von der Sicherheit eines inhabergeführten Unternehmens und von einem Netzwerk, das über die Jahre durch Leistung, Zuverlässigkeit und Vertrauen gewachse…",
+        "latitude": 48.18446,
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "created": "2026-10-02T15:44:38Z",
+        "longitude": 11.57287,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "CEIS GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "id": "5908118345",
+        "title": "Data Collection Engineer ADAS (m/w/d)",
+        "redirect_url": "https://www.adzuna.de/details/5908118345?utm_medium=api&utm_source=b6c24f0b",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Milbertshofen-Am Hart"
+            ],
+            "display_name": "Milbertshofen-Am Hart, München",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkwODExODM0NSIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.RXEC8jN8Kl8WPQjkp9gKtEM1ZWXUNV8auir8O3EJukI"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "title": "Senior Data Platform Engineer (m/w/d) | Snowflake",
+        "id": "5905613377",
+        "redirect_url": "https://www.adzuna.de/details/5905613377?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "JobRad Loop"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTA1NjEzMzc3In0.MmYdE4UhqfKSepqjSXdC5xaFj8eGlbmBto0GTjDtR5M",
+        "location": {
+            "display_name": "Laim, München",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Laim"
+            ]
+        },
+        "description": "Lust auf eine besondere Herausforderung? Bei JobRad® Loop musst du dir keine Erlaubnis holen, um etwas zu bewegen. Eine Datenplattform, die du selbst prägen kannst, statt eine zu verwalten, die andere gebaut haben. Als Senior Data Platform Engineer baust du unsere Snowflake -Plattform mit auf, setzt Standards und führst das Team fachlich. Dein Wort zählt, bis hinauf zur Geschäftsführung und sogar in der gesamten JobRad® Gruppe. Du bringst die Ideen, wir geben dir den Raum dafür. Remote aus Deut…",
+        "latitude": 48.13532,
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "longitude": 11.50283,
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-10-01T14:59:03Z"
+    },
+    {
+        "contract_type": "permanent",
+        "description": "Intro At carbmee, data is not a byproduct: it is the product. As a Forward Deployed Engineer on our Data & AI track, you are the technical vanguard of our mission, deployed directly inside the world's largest industrial enterprises to turn fragmented supply chain data into product-level carbon intelligence. You'll design AI-powered pipelines on carbmee EIS™, fine-tune models against messy real-world enterprise data, and own the technical journey from first prototype to production-grade deployme…",
+        "latitude": 48.13344,
+        "contract_time": "full_time",
+        "longitude": 11.58399,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "created": "2026-07-16T18:52:40Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzM4NjYyOSIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.mNf0BfO5afa0h7atEfzWYymd_c3Azu5dx1MkwkLhgXY",
+        "location": {
+            "display_name": "Ludwigsvorstadt-Isarvorstadt, München",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Ludwigsvorstadt-Isarvorstadt"
+            ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Forward Deployed Engineering - Data & AI Engineer Consultant | German Speaking",
+        "salary_is_predicted": "0",
+        "id": "5803386629",
+        "redirect_url": "https://www.adzuna.de/details/5803386629?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "carbmee GmbH"
+        }
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc5NjQ3MTcwMiIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.YcHCskjkoKaowQm9kS4kC2lD8hs0bmQgExXy7L-ffL0",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Baden-Württemberg",
+                "Reutlingen (Kreis)",
+                "Reutlingen",
+                "Achalm"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Achalm, Reutlingen"
+        },
+        "title": "Data & Cloud Integration Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "id": "5796471702",
+        "redirect_url": "https://www.adzuna.de/details/5796471702?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "display_name": "Heinrich Schmid Systemhaus GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 9.24135,
+        "created": "2026-07-11T04:51:17Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "description": "Data & Cloud Integration Engineer (m/w/d) in Reutlingen Über 7.000 Menschen an mehr als 200 Standorten setzen sich jeden Tag bei der familiengeführten Unternehmensgruppe Heinrich Schmid dafür ein, dass Handwerk Zukunft hat. Mit einer großen Anzahl an verschiedenen Gewerken möchten wir unseren Kunden nicht nur höchste handwerkliche Qualität, sondern auch mehr Vielfalt aus einer Hand bieten. Wir sind Handwerker aus Leidenschaft mit dem Blick fürs Wesentliche: den Menschen. Unsere Mitarbeiter sind…",
+        "latitude": 48.49388,
+        "contract_type": "permanent",
+        "contract_time": "full_time"
+    },
+    {
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hessen",
+                "Frankfurt am Main",
+                "Fechenheim"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Fechenheim, Frankfurt am Main"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODI4NDg5NDUyIn0.p5efRin-PzuV5kABXOwVDQVGWjVIrgKuxrOmYuQTYwU",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "statworx"
+        },
+        "salary_is_predicted": "0",
+        "title": "Operations Engineer Data & AI (m/w/d)",
+        "redirect_url": "https://www.adzuna.de/details/5828489452?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5828489452",
+        "description": "Über uns statworx ist ein führendes Beratungs- und Entwicklungsunternehmen für Daten & KI in der DACH-Region. Seit über einem Jahrzehnt unterstützen wir Unternehmen mit Beratung, Entwicklung und Weiterbildung – in mehr als 1.000 erfolgreichen Projekten für über 100 Kunden aus nahezu allen Branchen. Von der KI-Strategie bis zur Umsetzung entwickeln wir innovative Lösungen. Mit unserer Expertise in AI Strategy, Generative AI, Agentic AI, Data & AI Engineering sowie AI Infrastructure begleiten wir…",
+        "contract_type": "permanent",
+        "latitude": 50.12595,
+        "contract_time": "full_time",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-05T02:27:05Z",
+        "longitude": 8.76072
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Studyflix GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "id": "5884633590",
+        "title": "Senior Data Analyst / Analytics Engineer (m/w/d)",
+        "redirect_url": "https://www.adzuna.de/details/5884633590?utm_medium=api&utm_source=b6c24f0b",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Augsburg (Kreis)",
+                "Augsburg",
+                "Kriegshaber"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Kriegshaber, Augsburg"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODg0NjMzNTkwIn0.eUWa5oRH-KQJi2CxPk8s_zq_jhEOhDlIn1fKpDp1lmA",
+        "description": "Dein neuer Traumjob bei Studyflix Studyflix ist mit über 6 Mio. Nutzern die größte kostenlose E-Learning- und Karriere-Plattform im DACH-Raum! Unsere Mission ist es, allen SchülerInnen und StudentInnen kostenlosen Zugang zu hochwertiger Bildung und zu den besten Jobs zu geben. Für unsere Unternehmenskunden sind wir der Game Changer im War for Talents. Du möchtest mit Daten echte Business- und Produktentscheidungen beeinflussen und unsere Analytics-Strukturen aktiv mitgestalten? Als Senior Data …",
+        "latitude": 48.37649,
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "created": "2026-09-15T14:47:37Z",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 10.85874
+    },
+    {
+        "company": {
+            "display_name": "SQUER",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "title": "Lead Engineer - Applied AI & Data Products",
+        "id": "5805045663",
+        "redirect_url": "https://www.adzuna.de/details/5805045663?utm_medium=api&utm_source=b6c24f0b",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Au-Haidhausen"
+            ],
+            "display_name": "Au-Haidhausen, München",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODA1MDQ1NjYzIn0.C5LSrel4eacvX1HcB9tuwJUCP_CfEt-1BUhT00Vb0v0",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-07-17T18:29:07Z",
+        "longitude": 11.59129,
+        "latitude": 48.13258,
+        "description": "Description Are you excited about building smart, data-driven products using the latest AI technologies — and about owning the technical and customer-facing responsibility that comes with it? At SQUER, we help our customers unlock the potential of AI through real-world software solutions — not by building custom models from scratch, but by applying LLMs, cloud-native AI services, and smart engineering. Join our Product Delivery Unit and lead how applied AI enhances modern digital products. Your…",
+        "contract_type": "permanent",
+        "contract_time": "full_time"
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "created": "2026-07-30T04:59:22Z",
+        "longitude": 11.58399,
+        "description": "IT-Consultant HR IT (m/w/d) in München für unseren Kunden, einem der führenden europäischen Nutzfahrzeughersteller und Anbieter von Transportlösungen, dessen Produktportfolio Transporter, Lkw, Busse, Diesel- und Gasmotoren sowie Dienstleistungen rund um Personenbeförderung und Gütertransport umfasst, gesucht! Dein Aufgabengebiet Einsatzbereich: Data Analytics & AI / Engineering / Digitale Produkt- und Use-Case-Umsetzung Schnittstelle zwischen Business, IT und Data Science. Planung, Steuerung un…",
+        "contract_type": "permanent",
+        "latitude": 48.13344,
+        "contract_time": "full_time",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Ludwigsvorstadt-Isarvorstadt"
+            ],
+            "display_name": "Ludwigsvorstadt-Isarvorstadt, München",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyMDY4MzUyMyIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.B5QtTbEy3CUDC6qB5KyB2N_sszIMD9VMlfPdbzhTo3s",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "MCG Memmingen GmbH"
+        },
+        "title": "IT-Consultant HR IT (m/w/d)",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.de/details/5820683523?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5820683523",
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "created": "2026-08-06T02:33:07Z",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 11.52134,
+        "description": "Startdatum Wir suchen Dich ab sofort an einem unserer deutschen Standorte in München, Nürnberg, Leipzig, Berlin, Essen oder Frankfurt am Main! Deine Aufgaben Data und AI sind Dein zu Hause? Des Weiteren gestaltet sich Deine neue Herausforderung wie folgt: Du verantwortest die Konzeption, Entwicklung und Implementierung moderner Data Science-, Machine Learning- und Generative AI-Lösungen für Kunden aus der Chemie-, Prozess- und Fertigungsindustrie Du entwickelst skalierbare Machine Learning- und…",
+        "contract_time": "full_time",
+        "latitude": 48.18196,
+        "contract_type": "permanent",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Moosach, München",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Moosach"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODI5NzgxMzk5In0.joD880-jA3yJkXL-wmX5fE5SlDWPKb35xJyKljPiYWs",
+        "company": {
+            "display_name": "Alexander Thamm GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Senior Data Scientist (m/w/d) - Chemical Engineering & Verfahrenstechnik",
+        "salary_is_predicted": "0",
+        "id": "5829781399",
+        "redirect_url": "https://www.adzuna.de/details/5829781399?utm_medium=api&utm_source=b6c24f0b",
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "latitude": 50.71942,
+        "description": "Worum es geht Du entwirfst, entwickelst und betreibst skalierbare und sichere Datenplattformen, die die Geschäftsprozesse unserer Kund:innen unterstützen Du implementierst Datenpipelines und -integrationen, um die Datenqualität und -verfügbarkeit zu verbessern und datengetriebene Entscheidungen zu ermöglichen Du stellst die Datenqualität und -sicherheit sicher, um die Integrität der Daten zu gewährleisten Du bist technischer Ansprechpartner:in für Kund:innen und interne Kolleg:innen und berätst…",
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-07-16T18:47:48Z",
+        "longitude": 7.112412,
+        "location": {
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Bonn"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Bonn, Nordrhein-Westfalen"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODAzMzU2OTA2In0.i-zQzczspLk6_wwhFls0YD7y5sqOrYARRkVPKn4m28E",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Comma Soft AG",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Senior Consultant Data Platform Engineering (m/w/d)",
+        "salary_is_predicted": "0",
+        "id": "5803356906",
+        "redirect_url": "https://www.adzuna.de/details/5803356906?utm_medium=api&utm_source=b6c24f0b"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkxOTk3Mzg0MyIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.1ZirI5SAF9BKEyeqJJbrrqo212tNroX_P2uqqTxRMsE",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Berlin"
+            ],
+            "display_name": "Berlin, Deutschland",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Senior Full Stack Developer (m/w/d)",
+        "salary_is_predicted": "0",
+        "id": "5919973843",
+        "redirect_url": "https://www.adzuna.de/details/5919973843?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "TechBiz Global GmbH"
+        },
+        "contract_type": "permanent",
+        "description": "Bei TechBiz Global sind wir mehr als nur ein Rekrutierungs- und Softwareentwicklungsunternehmen – wir sind ein in Deutschland ansässiger globaler Partner, der sich dem Erfolg Ihres Unternehmens verschrieben hat. Mit einem vielfältigen, verteilten Team sind wir auf IT-Rekrutierung, Outstaffing, Outsourcing, Softwareentwicklung und Beratungsdienste für mehr als 100 Kunden in über 20 Ländern spezialisiert. Wir bieten Rekrutierungsdienste für unsere TOP-Kunden aus unserem Portfolio an. Derzeit such…",
+        "latitude": 52.507706,
+        "contract_time": "full_time",
+        "longitude": 13.420806,
+        "created": "2026-10-09T04:16:50Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        }
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.de/details/5915424088?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5915424088",
+        "company": {
+            "display_name": "Breagh Recruitment",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkxNTQyNDA4OCIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.3VmKG85hkfFQmitKM__4yAaHPZBsIHsf6gneKwe6dsE",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Frankfurt am Main, Hessen",
+            "area": [
+                "Deutschland",
+                "Hessen",
+                "Frankfurt am Main"
+            ]
+        },
+        "description": "Job title: Electrical Project Engineer – Data Centre Location: Frankfurt, Germany Company: Irish M&E Contractor Package: Up to €120,000 DOE  €1,200 per month tax-free allowance  accommodation  flights  3/1 roster The Company This Irish M&E contractor delivers large scale mechanical and electrical projects across Ireland, the UK and mainland Europe, with a strong project pipeline across data centres, pharmaceutical, industrial and other technically complex sectors. They are looking for an Electr…",
+        "contract_time": "full_time",
+        "category": {
+            "tag": "engineering-jobs",
+            "label": "Technikerstellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-10-07T06:24:10Z",
+        "salary_max": 120000,
+        "salary_is_predicted": "0",
+        "title": "Electrical Project Engineer – Frankfurt",
+        "contract_type": "permanent",
+        "latitude": 50.129683,
+        "longitude": 8.650578,
+        "salary_min": 120000
+    },
+    {
+        "contract_type": "permanent",
+        "description": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – i…",
+        "latitude": 52.48082,
+        "contract_time": "full_time",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-03T02:49:27Z",
+        "longitude": 13.425,
+        "location": {
+            "display_name": "Neukölln, Berlin",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Neukölln"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2ODA0MTY3MSIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.oviZAzGBfbsh2X82_AtQp29awbsV1UxoKgPZ8VUWNp4",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "1komma5° GmbH"
+        },
+        "title": "Senior Software Engineer - Energy Markets (m/f/d)",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.de/details/5868041671?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5868041671"
+    },
+    {
+        "location": {
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Köln",
+                "Buchheim"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Buchheim, Köln"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2NDU5MzM0MSIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.YCDwfi_gbjv741POw7IzrNiHw35cME91qIkPHixirwg",
+        "company": {
+            "display_name": "areto.",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "id": "5864593341",
+        "title": "Data Architect – Cloud & Data Governance (Microsoft Azure) (m/w/d)",
+        "redirect_url": "https://www.adzuna.de/details/5864593341?utm_medium=api&utm_source=b6c24f0b",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-09-01T14:49:17Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "longitude": 7.01387,
+        "contract_type": "permanent",
+        "description": "Unsere Mission Bei areto arbeiten wir jeden Tag daran, Organisationen datengetriebener, moderner und zukunftsfähiger zu machen. Wir glauben an Transparenz, Teamwork und echte Wirkung – nicht an Buzzwords. Unser Ziel: Menschen und Unternehmen befähigen, bessere Entscheidungen zu treffen und nachhaltige Lösungen zu gestalten. Du übernimmst bei unseren Kunden die Verantwortung für die Zielarchitektur moderner Cloud- und Datenplattformen im Microsoft-Azure-Kosmos, von der ersten Anforderung bis zur…",
+        "latitude": 50.95561,
+        "contract_time": "full_time"
+    },
+    {
+        "salary_is_predicted": "0",
+        "title": "Senior Product Manager",
+        "id": "5847584831",
+        "redirect_url": "https://www.adzuna.de/details/5847584831?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "display_name": "Userlane",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODQ3NTg0ODMxIn0.d3WBdooGJDaTr4mMbrafnM0G0qZ4KVig8g_tVgsTJR4",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Au-Haidhausen"
+            ],
+            "display_name": "Au-Haidhausen, München",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": 11.59129,
+        "created": "2026-08-19T02:40:38Z",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 48.13258,
+        "description": "About Userlane Userlane is a software adoption platform that shows enterprises whether their software and AI investments are actually working. Our team works with some of the biggest names in regulated industries, helping them get real value from technology and giving their employees the right support inside software applications they use every day. Based in Munich, growing internationally. Userlane combines Application Intelligence and Contextual Assistance for regulated industries. Applicatio…",
+        "contract_time": "full_time",
+        "contract_type": "permanent"
+    },
+    {
+        "description": "Das erwartet dich Als Senior AI Engineer:in entwirfst und verantwortest du komplexe Konzepte zur Datenintegration aus verschiedenen Bereichen und Datenquellen – mit besonderem Fokus auf Agentic AI Systeme und deren Anbindung an Enterprise-Datenlandschaften. Dein Technologie-Stack umfasst dabei auch Big Data auf Cloudtechnologien/-services (Schwerpunkt Microsoft Azure Cloud). Du bist versiert im Umgang mit gängigen AI- und ML-Frameworks sowie mit modernen Ansätzen der Agent Orchestration (z. B. …",
+        "contract_type": "permanent",
+        "latitude": 48.89257,
+        "contract_time": "full_time",
+        "created": "2026-08-05T02:30:38Z",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 10.10036,
+        "location": {
+            "display_name": "Wasseralfingen, Aalen",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Baden-Württemberg",
+                "Ostalbkreis",
+                "Aalen",
+                "Wasseralfingen"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyODUwMzUyOSIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.cnemlrBl30NRCtFRJVnLC4iBI7N1zEmf8qaWdxMcCo4",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "PlanB. GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "id": "5828503529",
+        "title": "Senior AI Engineer (m/w/d) - Data Science / GenAI",
+        "redirect_url": "https://www.adzuna.de/details/5828503529?utm_medium=api&utm_source=b6c24f0b"
+    },
+    {
+        "contract_type": "permanent",
+        "description": "Als zentrale Schlüsselrolle für die unternehmensweite Analytics-Landschaft verantworten Sie die Weiterentwicklung, Governance und den geschäftlichen Mehrwert der Analytics-Plattform auf Basis von Microsoft Azure, Azure Databricks und Power BI. Sie treiben die strategische und technische Weiterentwicklung der Plattform voran, fördern Self-Service-Analytics, befähigen Fachbereiche im datengetriebenen Arbeiten und etablieren nachhaltige Standards sowie Prozesse für eine zukunftsfähige Analytics-Or…",
+        "latitude": 48.18196,
+        "contract_time": "full_time",
+        "longitude": 11.52134,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "healthcare-nursing-jobs",
+            "label": "Stellen aus Gesundheitswesen & Pflege"
+        },
+        "created": "2026-07-28T02:54:48Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Produktmanager Analytics in München (m/w/d)",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.de/details/5817835572?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5817835572",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "dental bauer GmbH"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODE3ODM1NTcyIn0.WcKtgqrYrnhtOg4fXkuuyI-uP5swW1H_NC7oIV0LjBg",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Moosach"
+            ],
+            "display_name": "Moosach, München",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        }
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.de/details/5896061026?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5896061026",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Peak One GmbH"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODk2MDYxMDI2In0.2FuRhgJEJJNQhIG5LEPBF6G7SiYxeOT6XRiDnyLYdsA",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Gleißbühl, Nürnberg",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Nürnberg",
+                "Gleißbühl"
+            ]
+        },
+        "description": "Für unseren Auftraggeber, ein Hi-Tech Unternehmen im Bereich Luft und Raumfahrt, suchen wir einen erfahrenen ML Engineer (m/w/d) zur Verstärkung des Entwicklungsteams. Das Unternehmen ist geprägt durch Innovation und nachhaltiges Wachstum und entwickelt hochmoderne Softwarelösungen für kritische Infrastrukturen in einem interdisziplinären, internationalen Umfeld. Ihre Aufgaben Aufbau und Wartung skalierbarer MLOps-Pipelines unter Einsatz von Kubeflow, MLFlow, DataRobot und Airflow Containerisie…",
+        "contract_time": "full_time",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "created": "2026-09-24T03:35:37Z",
+        "salary_max": 80000,
+        "title": "ML Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "contract_type": "permanent",
+        "latitude": 49.44932,
+        "longitude": 11.08475,
+        "salary_min": 60000
+    },
+    {
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-26T14:41:11Z",
+        "longitude": 11.01935,
+        "latitude": 49.46381,
+        "description": "Deine Aufgaben Entwicklung und Betrieb produktionsreifer Multi-Agent-Systeme und autonomer Workflows Konzeption von RAG-Architekturen mit Wissensgraphen und hybriden Retrieval-Strategien Aufbau von Document-Processing-Pipelines zur Informationsextraktion aus komplexen Dokumenten Fine-tuning und Optimierung von LLMs und multimodalen Modellen Design von Agent-Stacks mit modernen Standards wie MCP und Prompt-Engineering Pipelines für Preprocessing, Entity Resolution und Data Harmonization (Data-En…",
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "location": {
+            "display_name": "Doos, Nürnberg",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Nürnberg",
+                "Doos"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg1NjgxODcyNyIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.3CiuFPNGQmJ_2PJ1Df3DnLa2UKbXvGQtFzZa4ANuUS8",
+        "company": {
+            "display_name": "adorsys GmbH & Co. KG",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "title": "AI Engineer (m/w/d)",
+        "redirect_url": "https://www.adzuna.de/details/5856818727?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5856818727",
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "longitude": 13.425,
+        "created": "2026-09-03T03:01:06Z",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 52.48082,
+        "description": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – i…",
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "title": "Senior Backend VPP Software Engineer - TypeScript (m/f/d)",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.de/details/5868067824?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5868067824",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "1komma5° GmbH"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2ODA2NzgyNCIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.t4b-rYdVrBcJCFMy-PIeL5QuKoY29W9tO4CkGPucgB4",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Neukölln, Berlin",
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Neukölln"
+            ]
+        }
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5900295853",
+        "redirect_url": "https://www.adzuna.de/details/5900295853?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "display_name": "Breagh Recruitment",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkwMDI5NTg1MyIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.Xn15rweAadEtqG-xjwPAPogLNYuEexWdElFgeheHaZM",
+        "location": {
+            "display_name": "Frankfurt am Main, Hessen",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Hessen",
+                "Frankfurt am Main"
+            ]
+        },
+        "contract_time": "full_time",
+        "description": "Job Title: Electrical Commissioning Engineer - Data Centre Location: Germany / European Projects Leading Specialist Electrical Engineering Contractor Salary: €95,000  10/4 Rotation  Solo Accommodation  Flights  25 Days Annual Leave  Pension  Health Insurance The Company This is an opportunity to join a leading specialist engineering contractor delivering electrical solutions across major data centre and mission critical projects throughout Europe. The company has a strong and growing pipeline o…",
+        "category": {
+            "label": "Technikerstellen",
+            "tag": "engineering-jobs",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-27T06:36:37Z",
+        "salary_max": 95000,
+        "title": "Electrical Commissioning Engineer",
+        "salary_is_predicted": "0",
+        "latitude": 50.129683,
+        "contract_type": "permanent",
+        "longitude": 8.650578,
+        "salary_min": 95000
+    },
+    {
+        "description": "As an ML Engineer (m/f/d), you will be a key contributor within our development team. Your responsibilities include preparing and selecting data, training and validating models, as well as deploying them on real embedded UAVs, UGVs, and USVs to enhance their capabilities. You will work within a world-class team to help push the boundaries of autonomous drone technology. In this role, you collaborate closely with stakeholders from hardware development, testing, production, and customer operation…",
+        "contract_type": "permanent",
+        "latitude": 48.11148,
+        "contract_time": "full_time",
+        "longitude": 11.29639,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "it-jobs",
+            "label": "IT-Stellen"
+        },
+        "created": "2026-09-01T04:09:15Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "id": "5863699206",
+        "title": "Senior Machine Learning Engineer (m/f/d)",
+        "redirect_url": "https://www.adzuna.de/details/5863699206?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Quantum-Systems GmbH"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg2MzY5OTIwNiIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.qaCUqOFzOsd2CL2Y7LsmW8xV1QNMv-6OTQTzyGj1W78",
+        "location": {
+            "display_name": "Gilching, Starnberg (Kreis)",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Starnberg (Kreis)",
+                "Gilching"
+            ]
+        }
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5NjAzMjU1MiIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.zLIAg35ibUTuZ3gO2uu64pwoEG9GEQZi11st_iuUCRs",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Mitte"
+            ],
+            "display_name": "Mitte, Berlin",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.de/details/5896032552?utm_medium=api&utm_source=b6c24f0b",
+        "title": "Junior Quant Researcher (m/f/d)",
+        "id": "5896032552",
+        "company": {
+            "display_name": "BIT Capital GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 13.41405,
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-24T03:12:17Z",
+        "contract_time": "full_time",
+        "description": "Your Role & How we work As our Junior Quant Researcher (m/f/d), you own alpha signals and risk models for Europe’s best performing technology funds and a concentrated list of tomorrow’s leading tech companies. You report to Benjamin Kauper (Director Systematic Strategies & Risk) and join a team of three quants working directly with Portfolio Management and Fundamental Research. Your priorities in this role will include: Signals that move capital. You own the alpha-signal and risk-model lifecycl…",
+        "latitude": 52.51214,
+        "contract_type": "permanent"
+    },
+    {
+        "id": "5832725248",
+        "redirect_url": "https://www.adzuna.de/details/5832725248?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "display_name": "credium GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgzMjcyNTI0OCIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.OcJtA3oakTaAUD-buQfKa_xyEgk_Yz9Htk_7gR25gjI",
+        "location": {
+            "display_name": "Innenstadt, Augsburg",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Augsburg (Kreis)",
+                "Augsburg",
+                "Innenstadt"
+            ]
+        },
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-08T02:36:34Z",
+        "description": "Your new job You aren't just looking for a job; you're looking for a stage for your entrepreneurial mindset and your drive to get things moving—and you want to be part of an ambitious team aiming to achieve great things together? Then we should talk. At credium, we turn aerial imagery, LiDAR and 3D geodata into building intelligence – data that helps make property verification digital, reliable and accessible. Computer vision is one of the technologies that makes this possible, and we are looki…",
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "title": "(Senior) ML Engineer - Computer Vision (f/m/d)",
+        "salary_max": 82000,
+        "longitude": 10.89168,
+        "contract_type": "permanent",
+        "latitude": 48.36463,
+        "salary_min": 65000
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgxNDcyNDg4OSIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.EfyYfZGeqvIyE0-GWEnw13qvxFcC1mAbLBod217cnqU",
+        "location": {
+            "display_name": "Mitte, Berlin",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Mitte"
+            ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.de/details/5814724889?utm_medium=api&utm_source=b6c24f0b",
+        "title": "(Senior) Equity Research Analyst - Semiconductors (m/f/d)",
+        "id": "5814724889",
+        "company": {
+            "display_name": "BIT Capital GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Your Role & How we work Across our funds, we hold meaningful exposure to the hardware backbone of the AI buildout: the chips powering data centers and edge devices. As our (Senior) Equity Research Analyst - Semiconductors (m/f/d), you own that coverage and contribute original theses to a concentrated, high-conviction portfolio, extending our reach in pure-play names before consensus catches up. The scope centers on semiconductors but grows with your insights into adjacent areas: AI compute infr…",
+        "contract_time": "full_time",
+        "latitude": 52.51214,
+        "contract_type": "permanent",
+        "longitude": 13.41405,
+        "created": "2026-07-25T03:07:58Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        }
+    },
+    {
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "IT-Stellen",
+            "tag": "it-jobs"
+        },
+        "created": "2026-09-19T04:24:05Z",
+        "longitude": 11.29639,
+        "description": "As a Data Analyst (m/f/d) focussing in the land domain for unmanned ground vehicles, you will play a leading role within the Cloud & Data Team, owning the evaluation, interpretation, and continuous improvement of analytics for large-scale telemetry and system data. You will shape how data is analyzed across products and platforms, enabling data-driven decisions in R&D, production, testing, and customer support. You will work with a highly skilled team and collaborate closely with stakeholders a…",
+        "contract_time": "full_time",
+        "latitude": 48.11148,
+        "contract_type": "permanent",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Starnberg (Kreis)",
+                "Gilching"
+            ],
+            "display_name": "Gilching, Starnberg (Kreis)",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODkwMDc4MjQ2In0.E9uUB6wrOdQf7tbR7Lv0f-Du2uLK_hL1NJQtF7A92jA",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Quantum-Systems GmbH"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5890078246?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "title": "(Senior) Data Analyst (m/f/d)",
+        "id": "5890078246",
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "description": "Senior Planner - Hyper Scale Data Centre Frankfurt, Germany €90,000 - €110,000 A Senior Planner is required for a data centre project in Frankfurt. This role is suited to an experienced Senior Planner with proven data centre project experience who can take ownership of programme control, scheduling and progress reporting on a mission-critical construction project. The Senior Planner will work closely with project teams to maintain accurate programmes, track progress and identify risks to delive…",
+        "contract_time": "full_time",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        },
+        "created": "2026-10-07T06:24:10Z",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hessen",
+                "Frankfurt am Main"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Frankfurt am Main, Hessen"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkxNTQyNDA4OSIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.i5c1hjUadKbVdfAnPqcMUpVLOavWAkSwGolrNDpON00",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "Verto People Ltd",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5915424089?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5915424089",
+        "salary_min": 90000,
+        "latitude": 50.129683,
+        "contract_type": "permanent",
+        "longitude": 8.650578,
+        "salary_max": 110000,
+        "salary_is_predicted": "0",
+        "title": "Planner"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkxNzEyNzA3MiIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.urM4wEnG-PNV6G_Evh7Vo_yjPsuct8hXBW_7W_o-7YM",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Bedburg, Rhein-Erft-Kreis",
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Rhein-Erft-Kreis",
+                "Bedburg"
+            ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Consultant Data & Knowledge Engineering (m/w/d)",
+        "salary_is_predicted": "0",
+        "id": "5917127072",
+        "redirect_url": "https://www.adzuna.de/details/5917127072?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "display_name": "Kramer & Crew GmbH & Co. KG",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Deine Aufgaben Mit unserem engagierten Team von Experten unterstützen wir Unternehmen dabei, ihre Geschäftsprozesse zu optimieren und ihre digitalen Transformationen erfolgreich umzusetzen. Für den Aufbau unseres neuen Innovationteams suchen wir dich als talentierten Data & Knowledge Engineer (m/w/d), der strukturierte Daten und gewachsene Wissensbestände unserer Kunden KI-fähig macht. Zu deinem Aufgabenbereich gehören unter anderem: Erschließung gewachsener Wissensbestände: SharePoint, Dateiab…",
+        "contract_time": "full_time",
+        "latitude": 50.99179,
+        "contract_type": "permanent",
+        "longitude": 6.57113,
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-10-07T15:44:56Z"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkxOTAxMTc0NCIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.GRmcbSNX7jrVaWxpj44A4AIbsOJ1iJiKEJagMWM-dtY",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hessen",
+                "Frankfurt am Main",
+                "Gallus"
+            ],
+            "display_name": "Gallus, Frankfurt am Main",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "title": "Head of Data Platform (m/f/d)",
+        "redirect_url": "https://www.adzuna.de/details/5919011744?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5919011744",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Solactive AG"
+        },
+        "description": "Company Description Since its creation in 2007 in the financial city of Frankfurt am Main, Solactive AG has grown to one of the key players in the indexing space. The German multi-asset index provider focusses on tailor-made indices, offering to its clients a faster service, with greater flexibility and at a reasonable cost. Solactive AG and its subsidiaries have become one of the fastest growing index providers over the past few years and support the leading investment banks and asset managers…",
+        "latitude": 50.10161,
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "longitude": 8.62864,
+        "created": "2026-10-08T15:44:22Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        }
+    },
+    {
+        "contract_type": "permanent",
+        "description": "Everyone at idealo bases decisions on data. Our vision is to transform idealo from a transactional price comparison platform into a personalised shopping companion that inspires users throughout their entire product discovery journey. To make this vision a reality, we are looking for a Machine Learning Engineer (m|f|x) who is passionate about building scalable, cloud-native machine learning systems. Working in a cross-functional team alongside Product Managers, UX Designers, Software Engineers …",
+        "latitude": 52.51551,
+        "contract_time": "full_time",
+        "category": {
+            "tag": "it-jobs",
+            "label": "IT-Stellen",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-10-07T04:59:03Z",
+        "longitude": 13.38475,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Mitte, Berlin",
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Mitte"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTE1MTUyMTE1In0.Mzd_SGHmJlA_iuMmhl_rOaal65nHF411KkKaWlaStNI",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "idealo internet GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "title": "Machine Learning Ops Engineer - Personalization (m|w|d)",
+        "redirect_url": "https://www.adzuna.de/details/5915152115?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5915152115"
+    },
+    {
+        "location": {
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Mitte"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Mitte, Berlin"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgyODUwODU0MCIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.pVRUGY3G2XJ3_dSi0r4xq_GHDwPt566SNdsgPJqcEyA",
+        "company": {
+            "display_name": "BIT Capital GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "id": "5828508540",
+        "title": "AI Engineer (m/f/d)",
+        "redirect_url": "https://www.adzuna.de/details/5828508540?utm_medium=api&utm_source=b6c24f0b",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-08-05T02:31:52Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "longitude": 13.41405,
+        "description": "Your Role & How we work We are looking for an AI Engineer to build the AI systems at the heart of BIT Capital's investment process. Aion — our agentic research platform with first-class access to our data, models, and tools — is in production and used by the investment team every day. Around it, a growing family of AI systems generates investment ideas, performs research, monitors tail risks, and distills millions of documents into insight. You will build both the platform all of this runs on a…",
+        "contract_time": "full_time",
+        "latitude": 52.51214,
+        "contract_type": "permanent"
+    },
+    {
+        "description": "Deine Aufgaben Als Data Scientist Applied AI arbeitest du direkt mit unseren Kunden: in Workshops, in der laufenden Abstimmung mit den Fachbereichen aus Supply Chain, Finance und Operations und bei Go-lives vor Ort. Auf Basis unserer DecisionOS Platform entwickelst du Lösungen, die nicht im Notebook enden, sondern im Alltag unserer Kunden Entscheidungen verändern. Den Großteil deiner Zeit verbringst du damit, Kundenprobleme zu verstehen und sie auf die Machine-Learning-, GenAI- und Datenfähigke…",
+        "contract_time": "full_time",
+        "latitude": 49.37729,
+        "contract_type": "permanent",
+        "created": "2026-09-23T14:50:45Z",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 8.66542,
+        "location": {
+            "display_name": "Kirchheim, Heidelberg",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Baden-Württemberg",
+                "Heidelberg",
+                "Kirchheim"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODk1MjA0MjQ4In0.caqGqqbVgAboC9qirmayUSeLW4EfPo2HpH_OEtkPvwM",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "paretos GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5895204248?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "title": "Data Scientist Applied AI (f/m/x)",
+        "id": "5895204248"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Flexa"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5913850072?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5913850072",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Maxvorstadt"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Maxvorstadt, München"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTEzODUwMDcyIn0.BFbZzvuXoJJUFK9nZTfBQIROAp8bRDaeqgJoDsHYpAI",
+        "contract_time": "full_time",
+        "description": "Short Facts Location: Munich, Germany Employment Type: Full-Time, indefinite term Salary Range: € 95,000 – 115,000 per year gross, depending on seniority level Office First work setup Language Requirement: C1 Level English Your Responsibilities Act as the technical bridge between data science and software engineering, helping research models become reliable, maintainable production systems, and helping engineering understand what ML workloads actually need Design and build the data and feature …",
+        "created": "2026-10-06T15:46:43Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "salary_max": 115000,
+        "title": "Senior MLOps Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "latitude": 48.1476,
+        "contract_type": "permanent",
+        "longitude": 11.56803,
+        "salary_min": 95000
+    },
+    {
+        "contract_type": "permanent",
+        "latitude": 48.1476,
+        "longitude": 11.56803,
+        "salary_min": 115000,
+        "salary_max": 135000,
+        "title": "Staff Data Scientist - Trading & Quant (d/f/m)",
+        "salary_is_predicted": "0",
+        "description": "Short Facts Location: Munich, Germany Employment Type: Full-Time, indefinite term Salary Range: € 115.000 - 135.000 per year gross depending on the seniority level Office-first work setup Language Requirement: C1 Level English Your Responsibilities Lead the technical implementation of trading strategy research and algorithms that optimise financial returns from trading the flexibility of Flexa's residential battery portfolio, from ideation and research through production deployment and monitori…",
+        "contract_time": "full_time",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "created": "2026-08-21T02:40:38Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5850296496",
+        "redirect_url": "https://www.adzuna.de/details/5850296496?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Flexa"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODUwMjk2NDk2In0.vlGRdQpMOhp4B7zx-VNvBI9zp_iAbMfx5DBKuLeg4uw",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Maxvorstadt"
+            ],
+            "display_name": "Maxvorstadt, München",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        }
+    },
+    {
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München",
+                "Maxvorstadt"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Maxvorstadt, München"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0OTA4NjE1MiIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.RCNZnBphsk6afmSp-DJOBUC4BELte6zohrpbz0Eyl-I",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Flexa"
+        },
+        "id": "5849086152",
+        "redirect_url": "https://www.adzuna.de/details/5849086152?utm_medium=api&utm_source=b6c24f0b",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-20T02:45:31Z",
+        "description": "Short Facts • Location: Munich, Germany • Employment Type: Full-Time, indefinite term • Salary Range: € 95,000 – 115,000 per year gross, depending on seniority level • Office First work setup • Language Requirement: C1 Level English Your Role We are looking for a Quantitative Developer to tackle the software, data, and integration challenges across our Virtual Power Plant (VPP) ecosystem. You will drive and own the roadmap for developing algorithmic execution strategies in the German intraday p…",
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "title": "Senior Quantitative Developer - Energy Trading (d/f/m)",
+        "salary_max": 115000,
+        "salary_min": 95000,
+        "longitude": 11.56803,
+        "contract_type": "permanent",
+        "latitude": 48.1476
+    },
+    {
+        "location": {
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Köln",
+                "Altstadt-Nord"
+            ],
+            "display_name": "Altstadt-Nord, Köln",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkxNDc4NTQ0OCIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.IlE_TbWHLw6iJXwke9HQBSCrSiaKSbYF2N9jknBT6Iw",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Cofinity-X GmbH"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.de/details/5914785448?utm_medium=api&utm_source=b6c24f0b",
+        "title": "(Senior) Project Manager (m/f/x)",
+        "id": "5914785448",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-10-07T03:35:08Z",
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 6.95684,
+        "description": "Our vision - your future Cofinity-X is a joint venture founded in 2023 by BASF, BMW Group, Henkel, Mercedes-Benz, SAP, Schaeffler, Siemens, T-Systems, Volkswagen, and ZF. Established by industry experts, our company is primed for growth and is intended to be further led by professionals like yourself. Your mission Take end-to-end responsibility for our portfolio of large-scale, publicly funded European AI research projects, from kick-off to final reporting Steer all work packages across multipl…",
+        "contract_time": "full_time",
+        "latitude": 50.93917,
+        "contract_type": "permanent"
+    },
+    {
+        "longitude": 8.76072,
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-08-05T02:27:48Z",
+        "latitude": 50.12595,
+        "description": "Über uns statworx ist ein führendes Beratungs- und Entwicklungsunternehmen für Daten & KI in der DACH-Region. Seit über einem Jahrzehnt unterstützen wir Unternehmen mit Beratung, Entwicklung und Weiterbildung – in mehr als 1.000 erfolgreichen Projekten für über 100 Kunden aus nahezu allen Branchen. Von der KI-Strategie bis zur Umsetzung entwickeln wir innovative Lösungen. Mit unserer Expertise in AI Strategy, Generative AI, Agentic AI, Data & AI Engineering sowie AI Infrastructure begleiten wir…",
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODI4NDkyMDI5In0.uHVyqIUCFJiDghHv6-YuimDFudqp9tjmy44JUEws_Mw",
+        "location": {
+            "display_name": "Fechenheim, Frankfurt am Main",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Hessen",
+                "Frankfurt am Main",
+                "Fechenheim"
+            ]
+        },
+        "redirect_url": "https://www.adzuna.de/details/5828492029?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "title": "(Junior) Machine Learning Engineer (m/w/d)",
+        "id": "5828492029",
+        "company": {
+            "display_name": "statworx",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "longitude": 13.35719,
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "created": "2026-09-05T02:47:13Z",
+        "description": "About us NET CHECK GmbH was founded in 1999 with the aim of improving the quality of communication networks. Since then, NET CHECK has developed into the leading partner of network operators and infrastructure providers of mobile and fixed networks of all technologies. Its core competencies include international network benchmarking (comparative measurements) as well as network planning and fault analysis. NET CHECK has one of Germany's largest crowdsourcing platforms, which generates over 144 …",
+        "contract_time": "full_time",
+        "latitude": 52.48688,
+        "contract_type": "permanent",
+        "salary_is_predicted": "0",
+        "id": "5871225185",
+        "title": "Applied AI Scientist(m/f/d)",
+        "redirect_url": "https://www.adzuna.de/details/5871225185?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "NC GROUP GmbH"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODcxMjI1MTg1In0.v6MNd0LOf22K-lO-wxUuqiSs1n1-hQ18L8jntfjQasE",
+        "location": {
+            "display_name": "Schöneberg, Berlin",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Schöneberg"
+            ]
+        }
+    },
+    {
+        "longitude": 7.01387,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "created": "2026-07-16T18:42:39Z",
+        "description": "Unsere Mission Daten sind überall. Entscheidungssicherheit ist selten. Das ändern wir. Mit Strategie, Technologie und Menschen, die auf Augenhöhe arbeiten. Du bist dabei, wenn aus Datenmengen echte Orientierung wird und aus Orientierung Wertschöpfung. Was wir bieten Flexible Arbeitszeiten – dank unserer Vertrauensarbeitszeit Homeoffice oder hybrides Arbeiten? Bei uns ganz selbstverständlich! Workation inkl. Reisebudget – Du entscheidest, von wo aus Du am liebsten arbeitest Sensationelles Onboar…",
+        "latitude": 50.95561,
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODAzMzQxODM3In0.tHUGukoxKFqrDRQjLpWwJGQ22bxZqPoMrHvF3W7bkIU",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Köln",
+                "Buchheim"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Buchheim, Köln"
+        },
+        "title": "Senior AI Engineer (m/w/d)",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.de/details/5803341837?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5803341837",
+        "company": {
+            "display_name": "areto.",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Berlin, Deutschland",
+            "area": [
+                "Deutschland",
+                "Berlin"
+            ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODAzMzg0MjU5In0.Gn7n16ecVJ2no3nbl_BSobWIcwzTUngRYz3QsYgEftM",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Valyria Technology GmbH"
+        },
+        "salary_is_predicted": "0",
+        "id": "5803384259",
+        "title": "(Senior) Infrastructure Engineer (all genders)",
+        "redirect_url": "https://www.adzuna.de/details/5803384259?utm_medium=api&utm_source=b6c24f0b",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-07-16T18:52:20Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "longitude": 13.420806,
+        "description": "Your Responsibilities Own and Evolve Our Infrastructure – You take ownership of our AWS and Hetzner environments and evolve them further – everything as Infrastructure as Code, running, scaling, and upgrading the Kubernetes clusters that our webapps and ML workloads run on Run Our ML and LLM Platform in Production – You keep our webapps, self-hosted tools, and ML stack in stable, secure production environments, with monitoring, logging, and alerting that covers LLM-based workloads as well as cl…",
+        "latitude": 52.507706,
+        "contract_time": "full_time",
+        "contract_type": "permanent"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Customer Experience Lead",
+        "salary_is_predicted": "0",
+        "id": "5913850621",
+        "redirect_url": "https://www.adzuna.de/details/5913850621?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "display_name": "Plato",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTEzODUwNjIxIn0.ozHwYIx8oTIvlNUma6pax5mCmIXJrIlSw6J-xUi9mzo",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Mitte"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Mitte, Berlin"
+        },
+        "latitude": 52.52219,
+        "description": "Your responsibilities You'll take our existing customer experience team to the next level: turn what works into a real CX organization, lead it and stay close to our most important customers yourself. Plato is entering one of the largest untapped markets in B2B software. Our customers are mid-market distributors, and many of them use AI software for the first time with us. We already have a team of Customer Experience Managers bringing them live. Now we need the structure to scale it across Ger…",
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "longitude": 13.40933,
+        "created": "2026-10-06T15:46:50Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        }
+    },
+    {
+        "description": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, and e-mobility as isolated components, but control them as an intelligent, integrated overall system in our virtual power plant. Directly connected to the electricity market – i…",
+        "contract_time": "full_time",
+        "latitude": 53.55197,
+        "contract_type": "permanent",
+        "longitude": 9.98553,
+        "created": "2026-08-18T02:48:09Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg0NTc4NjM2MyIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.Gr7qaYuBOIA8NkN_ctEF0zC0ZmaHETRkG6DMNboFxwM",
+        "location": {
+            "display_name": "Neustadt, Hamburg",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Hamburg",
+                "Neustadt"
+            ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.de/details/5845786363?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "title": "Senior Product Designer - Heartbeat AI (m/f/d)",
+        "id": "5845786363",
+        "company": {
+            "display_name": "1Komma5° GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "location": {
+            "area": [
+                "Deutschland",
+                "Hamburg",
+                "Hamburg-Altstadt"
+            ],
+            "display_name": "Hamburg-Altstadt, Hamburg",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTg5Mzk2MDkzOCIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.cHPW-26JKJhvG_JFNf5SGbVPtaDS-kVeJzksFVhxTzU",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Eraneos"
+        },
+        "id": "5893960938",
+        "salary_is_predicted": "0",
+        "title": "Senior Manager Data Science & AI Engineering (all genders)",
+        "redirect_url": "https://www.adzuna.de/details/5893960938?utm_medium=api&utm_source=b6c24f0b",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-09-22T14:58:32Z",
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 9.99417,
+        "latitude": 53.5504,
+        "description": "What you can expect from us We are a technical, implementation-oriented spin-off of a global management consultancy. Our clients are primarily DAX and Fortune Global 500 companies, which we advise on issues in the areas of analytics, big data and machine learning. Within the group, we take on the development of individual and data-driven solutions in order to transform our clients into AI-powered companies. We offer an international working environment with agile teams and creative startup meth…",
+        "contract_time": "full_time",
+        "contract_type": "permanent"
+    },
+    {
+        "created": "2026-10-09T03:38:17Z",
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": 13.71006,
+        "latitude": 51.05811,
+        "description": "Build Europe's semiconductor future with us! The Maintenance Engineer supports the operation, maintenance and continuous improvement of facility systems to ensure high system availability, reliability and compliance with applicable standards. The role supports preventive and condition-based maintenance activities, equipment performance monitoring, technical documentation and the coordination of maintenance service providers. The Maintenance Engineer analyzes operational data, supports troublesh…",
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "company": {
+            "display_name": "ESMC GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Facilities Maintenance Engineer - Electrical Systems (m/f/d)",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.de/details/5919912390?utm_medium=api&utm_source=b6c24f0b",
+        "id": "5919912390",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Sachsen",
+                "Dresden",
+                "Friedrichstadt"
+            ],
+            "display_name": "Friedrichstadt, Dresden",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTE5OTEyMzkwIn0.B2oSFGrwxP1F1OjDksreCWloxqBOjiPYZn2J-x6WjQc"
+    },
+    {
+        "description": "Your tasks We are looking for a Senior Backend Software Engineer to join our cross-functional product team. You will play a pivotal role in designing, developing, and scaling the backend systems that power our AI-driven negotiation platform. You'll work closely with product managers, frontend engineers, and data teams to build robust, secure, and highly available services. Key Responsibility: Architect, develop, and maintain scalable backend services using Python and FastAPI, following Hexagona…",
+        "latitude": 52.54629,
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "longitude": 13.35917,
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "created": "2026-09-11T03:15:02Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.de/details/5879095390?utm_medium=api&utm_source=b6c24f0b",
+        "salary_is_predicted": "0",
+        "title": "Senior Backend Software Engineer - (m/f/x)",
+        "id": "5879095390",
+        "company": {
+            "display_name": "beroe x nnamu GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1ODc5MDk1MzkwIn0.a3MBCQr7RKb2bsxD-VCZMZ9cSb3g1M5wCZerY6qZyls",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Wedding, Berlin",
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Wedding"
+            ]
+        }
+    },
+    {
+        "created": "2026-09-28T04:20:11Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "consultancy-jobs",
+            "label": "Beraterstellen"
+        },
+        "contract_type": "permanent",
+        "description": " Become our new Engineering Manager – Data & AI (all genders) As an Engineering Manager – Data & AI , you are the system and outcome owner for complex, data-driven and agentic solutions. You hold end-to-end responsibility for technical conception, architectural decisions, implementation depth, and the real, measurable business impact delivered to our clients. This role is deliberately forward-deployed: close to the business problem, close to stakeholders, and close to the engineering work. You …",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTAxMTQwMjQ2In0.gZQNO3dRXn_VDdjdnAqj-4Ke8b24asUs7IVdWijZGHg",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "München, München (Kreis)",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "München (Kreis)",
+                "München"
+            ]
+        },
+        "salary_is_predicted": "0",
+        "title": "Engineering Manager – Data & AI (all genders)",
+        "id": "5901140246",
+        "redirect_url": "https://www.adzuna.de/details/5901140246?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "display_name": "KI group GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+    },
+    {
+        "location": {
+            "area": [
+                "Deutschland",
+                "Nordrhein-Westfalen",
+                "Köln"
+            ],
+            "display_name": "Köln, Nordrhein-Westfalen",
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkY4WHhSWEU4UkdfNTlicExTVm1qUSIsImkiOiI1OTAxMTQwMjUwIn0.llkRXJHmOib0r-lPH3tpwgaBwPqBKqMaXgrZ9ruRp0w",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+            "display_name": "KI group GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5901140250",
+        "salary_is_predicted": "0",
+        "title": "Engineering Manager – Data & AI (all genders)",
+        "redirect_url": "https://www.adzuna.de/details/5901140250?utm_medium=api&utm_source=b6c24f0b",
+        "description": " Become our new Engineering Manager – Data & AI (all genders) As an Engineering Manager – Data & AI , you are the system and outcome owner for complex, data-driven and agentic solutions. You hold end-to-end responsibility for technical conception, architectural decisions, implementation depth, and the real, measurable business impact delivered to our clients. This role is deliberately forward-deployed: close to the business problem, close to stakeholders, and close to the engineering work. You …",
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Beraterstellen",
+            "tag": "consultancy-jobs"
+        },
+        "created": "2026-09-28T04:20:11Z"
+    },
+    {
+        "latitude": 48.07442,
+        "description": "Quantum Systems is a leading European deep-tech company for unmanned systems across air, land and maritime domains. We develop and scale integrated hardware, software and AI-powered solutions for mission-critical operations. By combining autonomous platforms with intelligent software and AI, Quantum Systems enables customers to operate, understand and act across domains. About the Role At Quantum Systems, we develop complete Counter-UAS interceptor systems consisting of drones, ground control s…",
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "longitude": 11.24824,
+        "created": "2026-10-01T05:07:53Z",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "engineering-jobs",
+            "label": "Technikerstellen"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Flight Test & Field Systems Engineer C‑UAS (m/f/d)",
+        "salary_is_predicted": "0",
+        "id": "5904537651",
+        "redirect_url": "https://www.adzuna.de/details/5904537651?utm_medium=api&utm_source=b6c24f0b",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Quantum-Systems GmbH"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTkwNDUzNzY1MSIsInMiOiJKRjhYeFJYRThSR181OWJwTFNWbWpRIn0.fzAqVRMYpG2AAI_KnDUimuGMOAqFJ32BS61akL1JzBI",
+        "location": {
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Starnberg (Kreis)",
+                "Weßling"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Weßling, Starnberg (Kreis)"
+        }
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5803423974",
+        "description": "We're looking for At thermondo, our mission is to decarbonize every home , and technology is our primary lever for change. We are disrupting a massive industry bogged down by legacy systems and manual work. This is where you come in. We build the intelligent software and automation that gives us a decisive edge, allowing us to operate at a scale and efficiency our competitors can't match. We are looking for a skilled and motivated Mobile Engineer (f/m/d) to contribute directly to the developmen…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzQyMzk3NCIsInMiOiJ0dXVYeGhYRThSR1JzNDhMXy1wQTd3In0.xCOlq6sDm7vdJQq0y6PHAsrUP0VGzp7lrXQBy3ewCY0",
+        "contract_type": "permanent",
+        "longitude": 13.3777,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Wedding"
+            ],
+            "display_name": "Wedding, Berlin"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5803423974?utm_medium=api&utm_source=b6c24f0b",
+        "contract_time": "full_time",
+        "latitude": 52.53261,
+        "company": {
+            "display_name": "Thermondo GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-07-16T18:56:47Z",
+        "title": "Mobile Engineer (f/m/d)"
+    },
+    {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTgwMzQ0Mzc1MCIsInMiOiJ0dXVYeGhYRThSR1JzNDhMXy1wQTd3In0.AUz9Y0mwy3EamymKgbuPNcuSeBWwuDgj_d-5gDvrmz4",
+        "description": "We're looking for At thermondo, our mission is to decarbonize every home, and technology is our primary lever for change. We are disrupting a massive industry bogged down by legacy systems and manual work. This is where you come in. We build the intelligent software and automation that gives us a decisive edge, allowing us to operate at a scale and efficiency our competitors can't match. As a Senior Engineer, you will architect the foundational systems that power this mission. Whether you’re bu…",
+        "id": "5803443750",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.de/details/5803443750?utm_medium=api&utm_source=b6c24f0b",
+        "location": {
+            "display_name": "Wedding, Berlin",
+            "area": [
+                "Deutschland",
+                "Berlin",
+                "Wedding"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_type": "permanent",
+        "longitude": 13.3777,
+        "company": {
+            "display_name": "Thermondo GmbH",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_time": "full_time",
+        "latitude": 52.53261,
+        "created": "2026-07-16T18:58:48Z",
+        "title": "Senior Full Stack Engineer (f/m/d)",
+        "salary_is_predicted": "0",
+        "category": {
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown"
+        }
+    },
+    {
+        "longitude": 12.73094,
+        "contract_type": "permanent",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Altötting (Kreis)",
+                "Burgkirchen an der Alz"
+            ],
+            "display_name": "Burgkirchen an der Alz, Altötting (Kreis)"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5918008050?utm_medium=api&utm_source=b6c24f0b",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "ABOUT US tozero is Europe’s leading deep-tech startup specializing in the recycling of lithium-ion batteries. Committed to accelerating decarbonization and transforming the material life cycle, we’re actively crafting sustainable recycling solutions for a cleaner and more innovative future. WHAT WE'RE LOOKING FOR We are looking for a Senior Process Engineer to take a leading technical role in the design, scale-up, commissioning and ramp up of our battery recycling processes. This role sits at t…",
+        "id": "5918008050",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidHV1WHhoWEU4UkdSczQ4TF8tcEE3dyIsImkiOiI1OTE4MDA4MDUwIn0.wXHknXHpmX8g2RDQ4YLCsfeJk6qdzN-0Q9oszFMsJeY",
+        "category": {
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown"
+        },
+        "salary_is_predicted": "0",
+        "title": "Senior Process Engieer",
+        "created": "2026-10-08T03:45:27Z",
+        "contract_time": "full_time",
+        "latitude": 48.16655,
+        "company": {
+            "display_name": "tozero",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "id": "5898353037",
+        "description": "ABOUT US tozero is Europe’s leading deep-tech startup specializing in the recycling of lithium-ion batteries. Committed to accelerating decarbonization and transforming the material life cycle, we’re actively crafting sustainable recycling solutions for a cleaner and more innovative future. WHAT WE'RE LOOKING FOR We are looking for a Senior Process Engineer to take a leading technical role in the design, scale-up, commissioning and ramp up of our battery recycling processes. This role sits at t…",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidHV1WHhoWEU4UkdSczQ4TF8tcEE3dyIsImkiOiI1ODk4MzUzMDM3In0.7JKa90Q9ctO22lbYgP-mVsnfDcqY_RvvSxyROGx3lQ8",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "Deutschland",
+                "Bayern",
+                "Dachau (Kreis)",
+                "Karlsfeld"
+            ],
+            "display_name": "Karlsfeld, Dachau (Kreis)"
+        },
+        "redirect_url": "https://www.adzuna.de/details/5898353037?utm_medium=api&utm_source=b6c24f0b",
+        "longitude": 11.47157,
+        "contract_type": "permanent",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "tozero"
+        },
+        "latitude": 48.22306,
+        "contract_time": "full_time",
+        "title": "Senior Process Engieer",
+        "created": "2026-09-25T14:59:58Z",
+        "category": {
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown"
+        },
+        "salary_is_predicted": "0"
+    }
+]
